@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# TerraSpectra - Hyperspectral Data
+data/raw/*
+data/processed/*
+
+# Allow sample datasets
+!data/sample/
+!data/sample/.gitkeep
+
+# ML Model Weights
+*.pth
+*.pt
+*.onnx
+
+# Local experiment outputs
+outputs/
+checkpoints/
+runs/
