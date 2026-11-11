@@ -1,0 +1,33 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+
+# Geospatial Processing
+rasterio
+GDAL
+h5py
+pyproj
+shapely
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Visualization and Utilities
+matplotlib
+seaborn
+plotly
+tqdm
+opencv-python
+
+# Testing
+pytest
+httpx
