@@ -1,0 +1,402 @@
+
+/* Main dashboard layout */
+.dashboard {
+  display: flex;
+  min-height: 100vh;
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-family: Arial, sans-serif;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 240px;
+  min-height: 100vh;
+  background-color: #111c30;
+  padding: 28px 20px;
+  border-right: 1px solid #263449;
+  flex-shrink: 0;
+}
+
+.sidebar h2 {
+  font-size: 22px;
+  color: #4ade80;
+  margin-bottom: 40px;
+}
+
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sidebar nav p {
+  padding: 12px;
+  color: #cbd5e1;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.sidebar nav p:hover {
+  background-color: #263449;
+  color: #4ade80;
+}
+
+/* Main area */
+.main-area {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Header */
+.header {
+  height: 80px;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111c30;
+  border-bottom: 1px solid #263449;
+}
+
+.header h2 {
+  color: #f8fafc;
+  font-size: 21px;
+}
+
+.header span {
+  color: #4ade80;
+  font-size: 14px;
+}
+
+/* Dashboard content */
+.content {
+  padding: 40px;
+  min-height: calc(100vh - 80px);
+  background-color: #0f172a;
+}
+
+.content h1 {
+  color: #f8fafc;
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.content p {
+  color: #94a3b8;
+  font-size: 16px;
+}
+
+/* Dashboard heading */
+.page-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.demo-label {
+  color: #facc15;
+  border: 1px solid #854d0e;
+  background-color: #422006;
+  padding: 7px 12px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* Metric cards */
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.metric-card {
+  background-color: #172338;
+  border: 1px solid #293950;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.metric-card p {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+.metric-card h2 {
+  color: #4ade80;
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+
+.metric-card h2 span {
+  font-size: 14px;
+  color: #94a3b8;
+  font-weight: normal;
+}
+
+.metric-card .high-risk {
+  color: #fb7185;
+}
+
+.metric-card small {
+  color: #94a3b8;
+}
+
+
+/* Responsive dashboard */
+@media (max-width: 900px) {
+  .sidebar {
+    width: 190px;
+  }
+
+  .metrics-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .dashboard {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    min-height: auto;
+  }
+
+  .sidebar h2 {
+    margin-bottom: 18px;
+  }
+
+  .sidebar nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .header {
+    padding: 16px;
+    height: auto;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .content {
+    padding: 20px;
+  }
+
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .page-heading {
+    align-items: flex-start;
+    gap: 16px;
+    flex-direction: column;
+  }
+}
+
+/* GIS Map Section */
+.map-section {
+  margin-top: 36px;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.section-heading h2 {
+  color: #f8fafc;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.section-heading p {
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.map-placeholder {
+  min-height: 380px;
+  border: 1px solid #293950;
+  border-radius: 12px;
+  background-color: #172338;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.map-message span {
+  color: #4ade80;
+  font-size: 13px;
+  letter-spacing: 3px;
+}
+
+.map-message h3 {
+  color: #f8fafc;
+  margin: 14px 0;
+  font-size: 24px;
+}
+
+.map-message p,
+.map-message small {
+  color: #94a3b8;
+}
+
+.map-message small {
+  display: block;
+  margin-top: 12px;
+}
+
+/* Crop risk legend */
+.risk-legend {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #172338;
+  border: 1px solid #293950;
+  border-radius: 10px;
+}
+
+.risk-legend h3 {
+  color: #f8fafc;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.legend-items {
+  display: flex;
+  gap: 28px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
+.risk-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+}
+
+.risk-dot.low {
+  background-color: #4ade80;
+}
+
+.risk-dot.medium {
+  background-color: #facc15;
+}
+
+.risk-dot.high {
+  background-color: #fb7185;
+}
+
+/* Risk Analytics */
+.analytics-section {
+  margin-top: 36px;
+}
+
+.analytics-section h2 {
+  color: #f8fafc;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.analytics-subtitle {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.analytics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.analytics-card {
+  background-color: #172338;
+  border: 1px solid #293950;
+  border-radius: 12px;
+  padding: 22px;
+}
+
+.analytics-card p {
+  color: #94a3b8;
+  margin: 12px 0;
+}
+
+.analytics-card h3 {
+  color: #f8fafc;
+  font-size: 28px;
+}
+
+@media (max-width: 600px) {
+  .analytics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Risk Distribution Chart */
+.chart-section {
+  margin-top: 36px;
+}
+
+.chart-section h2 {
+  color: #f8fafc;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.chart-section > p {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-bottom: 22px;
+}
+
+.chart-container {
+  padding: 26px;
+  background-color: #172338;
+  border: 1px solid #293950;
+  border-radius: 12px;
+}
+
+.chart-row {
+  display: grid;
+  grid-template-columns: 110px 1fr 25px;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 22px;
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
+.chart-row:last-child {
+  margin-bottom: 0;
+}
+
+.bar-background {
+  height: 12px;
+  background-color: #293950;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 20px;
+}
+
+.chart-row strong {
+  color: #f8fafc;
+}

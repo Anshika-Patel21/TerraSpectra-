@@ -236,3 +236,9 @@ data/processed/*
 outputs/
 checkpoints/
 runs/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/

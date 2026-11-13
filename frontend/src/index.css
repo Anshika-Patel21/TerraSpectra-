@@ -1,0 +1,28 @@
+
+/* Global reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Root document settings */
+:root {
+  font-family: Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Browser page */
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* React application container */
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
