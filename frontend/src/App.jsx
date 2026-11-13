@@ -1,13 +1,12 @@
-
+import {
+  riskData,
+  farmSummary,
+  getHighRiskPercentage,
+} from './data/riskData'
 import './App.css'
 
 function App() {
 
-  const riskData = [
-    { label: 'Low Risk', zones: 6, color: '#4ade80' },
-    { label: 'Medium Risk', zones: 4, color: '#facc15' },
-    { label: 'High Risk', zones: 2, color: '#fb7185' },
-  ]
 
   return (
     <div className="dashboard">
@@ -51,19 +50,20 @@ function App() {
 
     <div className="metric-card">
       <p>Total Monitored Area</p>
-      <h2>1,000 <span>acres</span></h2>
+      <h2>{farmSummary.totalArea.toLocaleString()} <span>acres</span></h2>
       <small>Illustrative farm area</small>
     </div>
 
     <div className="metric-card">
       <p>High-Risk Area</p>
-      <h2 className="high-risk">45 <span>acres</span></h2>
+      <h2 className="high-risk">{farmSummary.highRiskArea} <span>acres</span></h2>
+      <small>{getHighRiskPercentage()}% of monitored area</small>
       <small>Synthetic risk estimate</small>
     </div>
 
     <div className="metric-card">
       <p>Monitored Zones</p>
-      <h2>12 <span>zones</span></h2>
+      <h2>{farmSummary.monitoredZones} <span>zones</span></h2>
       <small>Sample monitoring zones</small>
     </div>
 
@@ -91,22 +91,16 @@ function App() {
 <div className="risk-legend">
   <h3>Risk Classification</h3>
 
-  <div className="legend-items">
-    <div className="legend-item">
-      <span className="risk-dot low"></span>
-      Low Risk
+  
+<div className="legend-items">
+  {riskData.map((item) => (
+    <div className="legend-item" key={item.id}>
+      <span className={`risk-dot ${item.className}`}></span>
+      {item.label}
     </div>
+  ))}
+</div>
 
-    <div className="legend-item">
-      <span className="risk-dot medium"></span>
-      Medium Risk
-    </div>
-
-    <div className="legend-item">
-      <span className="risk-dot high"></span>
-      High Risk
-    </div>
-  </div>
 </div>
 
 </section>
@@ -118,25 +112,19 @@ function App() {
     Illustrative distribution across monitored zones
   </p>
 
-  <div className="analytics-grid">
-    <div className="analytics-card">
-      <span className="risk-dot low"></span>
-      <p>Low Risk Zones</p>
-      <h3>6</h3>
-    </div>
+  
+<div className="analytics-grid">
+  {riskData.map((item) => (
+    <div className="analytics-card" key={item.id}>
+      <span className={`risk-dot ${item.className}`}></span>
 
-    <div className="analytics-card">
-      <span className="risk-dot medium"></span>
-      <p>Medium Risk Zones</p>
-      <h3>4</h3>
-    </div>
+      <p>{item.label} Zones</p>
 
-    <div className="analytics-card">
-      <span className="risk-dot high"></span>
-      <p>High Risk Zones</p>
-      <h3>2</h3>
+      <h3>{item.zones}</h3>
     </div>
-  </div>
+  ))}
+</div>
+
 </section>
 
 <section className="chart-section">
