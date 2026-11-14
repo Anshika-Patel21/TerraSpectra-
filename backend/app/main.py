@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from app.schemas.prediction import PredictionRequest
 
 app = FastAPI(
     title="TerraSpectra API",
@@ -20,4 +21,13 @@ def health_check():
     return {
         "status": "healthy",
         "project": "TerraSpectra"
+    }
+@app.post("/predict")
+def predict(request: PredictionRequest):
+
+    return {
+        "message": "Prediction request received successfully",
+        "farm_id": request.farm_id,
+        "file_name": request.file_name,
+        "status": "pending"
     }
