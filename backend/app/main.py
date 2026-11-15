@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from app.services.prediction_service import generate_mock_prediction
 from app.schemas.prediction import PredictionRequest
 
 app = FastAPI(
@@ -22,12 +23,20 @@ def health_check():
         "status": "healthy",
         "project": "TerraSpectra"
     }
+#@app.post("/predict")
+#def predict(request: PredictionRequest):
+
+ #   return {
+  #      "message": "Prediction request received successfully",
+   #     "farm_id": request.farm_id,
+    #    "file_name": request.file_name,
+     #   "status": "pending"
+    #}
 @app.post("/predict")
 def predict(request: PredictionRequest):
+    result = generate_mock_prediction(
+        farm_id=request.farm_id,
+        file_name=request.file_name
+    )
 
-    return {
-        "message": "Prediction request received successfully",
-        "farm_id": request.farm_id,
-        "file_name": request.file_name,
-        "status": "pending"
-    }
+    return result
