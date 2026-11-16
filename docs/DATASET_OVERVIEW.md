@@ -141,3 +141,158 @@ Folder-based labels remain provisional until the actual folder-versus-metadata c
 - Retain GPS and environmental information for further investigation.
 
 **Status:** Initial dataset integrity checks completed. Label reliability limitations documented.
+
+
+## 10. Image EDA and Technical Inspection
+
+### 10.1 Image Properties
+
+All 3,477 images were inspected using Python and the Pillow (PIL) library.
+
+| Property | Result |
+|---|---:|
+| Total valid images | 3,477 |
+| Image width | 1,080 pixels |
+| Image height | 1,080 pixels |
+| Image dimensions | 1080 × 1080 |
+| Image mode | RGB |
+| Image format | JPEG |
+| Unreadable images | 0 |
+
+### 10.2 Image Inspection Findings
+
+The technical inspection confirmed:
+
+- All images have identical dimensions.
+- All images use RGB colour mode.
+- All images are in JPEG format.
+- No corrupted or unreadable images were detected.
+
+### 10.3 Visual Exploratory Data Analysis
+
+Sample images from all four classes were visually inspected.
+
+Observations:
+
+- Healthy: Mostly green leaves with some natural yellow and brown areas.
+- Esca: Visible discoloration, browning and leaf damage.
+- Black Rot: Dark spots and scattered lesions on leaves.
+- Leaf Blight: Brown, irregular patches and damaged leaf regions.
+
+Additional observations:
+
+- Variation in lighting conditions and shadows.
+- Different backgrounds, including branches, hands, soil and surrounding vegetation.
+- Some leaves are partially obstructed or less focused.
+- Similar visual symptoms may appear across different disease classes.
+
+These observations are based on sampled images and do not represent a complete assessment of every image.
+
+**Status:** Image EDA completed.
+
+
+## 11. Image Preprocessing
+
+### 11.1 Preprocessing Method
+
+A Python-based image preprocessing function was implemented using Pillow and NumPy.
+
+The following operations were performed:
+
+1. Loaded images from the original class folders.
+2. Converted images to RGB format.
+3. Resized images from 1080 × 1080 to 224 × 224 pixels.
+4. Saved processed images separately in JPEG format.
+5. Preserved the original dataset without modification.
+
+### 11.2 Pixel Normalization
+
+A separate preprocessing function was implemented to normalize image pixel values.
+
+Normalization formula:
+
+Normalized Pixel Value = Original Pixel Value / 255
+
+This converts pixel values from the range 0–255 to the range 0–1.
+
+The normalization function produces NumPy arrays with the following properties:
+
+| Property | Result |
+|---|---|
+| Image shape | (224, 224, 3) |
+| Data type | float32 |
+| Pixel value range | 0–1 |
+| Colour channels | 3 (RGB) |
+
+Normalization is applied when loading images for further processing or model development. The saved JPEG images retain standard pixel values.
+
+### 11.3 Batch Preprocessing Results
+
+All 3,477 images were successfully processed.
+
+| Class | Original Images | Processed Images | Failed Images |
+|---|---:|---:|---:|
+| Healthy | 1,109 | 1,109 | 0 |
+| Esca | 888 | 888 | 0 |
+| Black Rot | 808 | 808 | 0 |
+| Leaf Blight | 672 | 672 | 0 |
+| **Total** | **3,477** | **3,477** | **0** |
+
+### 11.4 Processed Dataset Verification
+
+A verification script was executed to validate the processed images.
+
+The following properties were checked:
+
+- Image dimensions: 224 × 224.
+- Image mode: RGB.
+- Successful image loading.
+- Valid and invalid image counts.
+
+Final verification results:
+
+| Metric | Result |
+|---|---:|
+| Total processed images | 3,477 |
+| Valid images | 3,477 |
+| Invalid images | 0 |
+| Failed images | 0 |
+
+### 11.5 Processed Dataset Location
+
+The processed images are stored separately from the original dataset.
+
+Output directory:
+
+`data/processed/GVLiD_224/`
+
+Directory structure:
+
+- healthy/
+- esca/
+- Black rot/
+- leaf blight/
+
+### 11.6 Conclusion
+
+Image EDA and preprocessing were successfully completed.
+
+All 3,477 images were resized to 224 × 224 pixels and verified successfully, with zero processing failures.
+
+The processed dataset is ready for the next stage of experimentation, including dataset loading, splitting and baseline CNN model development.
+
+The previously identified metadata label inconsistencies remain an important limitation and must be considered during model development.
+
+**Status:** Image inspection, preprocessing and verification completed.
+
+
+## 12. Updated Next Steps
+
+1. Explore GPS and environmental metadata.
+2. Prepare a reproducible dataset loading pipeline.
+3. Perform stratified training, validation and test splitting.
+4. Establish a baseline CNN model.
+5. Evaluate model performance using appropriate classification metrics.
+6. Investigate the previously identified metadata label inconsistencies.
+
+**Overall Status:** Initial dataset inspection, label validation, image EDA and preprocessing completed.
