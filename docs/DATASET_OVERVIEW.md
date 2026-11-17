@@ -296,3 +296,82 @@ The previously identified metadata label inconsistencies remain an important lim
 6. Investigate the previously identified metadata label inconsistencies.
 
 **Overall Status:** Initial dataset inspection, label validation, image EDA and preprocessing completed.
+
+
+
+
+## 13. Master Dataset Preparation and Splitting
+
+### 13.1 Master Dataset
+
+A master dataset was created by combining processed image paths with the corresponding metadata records using image filenames.
+
+The master dataset contains:
+
+- Image path
+- Filename
+- Provisional folder-based label
+- Vineyard ID
+- GPS latitude and longitude
+- Capture timestamp
+- Lighting conditions
+- Weather conditions
+
+| Metric | Result |
+|---|---:|
+| Total records | 3,477 |
+| Total columns | 9 |
+| Missing image paths | 0 |
+| Missing values | 0 |
+
+### 13.2 Vineyard-Aware Dataset Splitting
+
+A group-based splitting strategy using `GroupShuffleSplit` was implemented.
+
+Images from the same vineyard were kept within a single subset to reduce vineyard-level data leakage.
+
+| Dataset | Images | Percentage |
+|---|---:|---:|
+| Training | 2,525 | 72.62% |
+| Validation | 490 | 14.09% |
+| Testing | 462 | 13.29% |
+| **Total** | **3,477** | **100%** |
+
+### 13.3 Class Distribution Across Splits
+
+| Class | Training | Validation | Testing |
+|---|---:|---:|---:|
+| Healthy | 815 | 147 | 147 |
+| Esca | 646 | 113 | 129 |
+| Black Rot | 581 | 124 | 103 |
+| Leaf Blight | 483 | 106 | 83 |
+
+All four classes are represented in the training, validation and testing datasets.
+
+### 13.4 Data Leakage Verification
+
+Vineyard overlap was checked between all three subsets.
+
+- Training–Validation overlap: 0
+- Training–Testing overlap: 0
+- Validation–Testing overlap: 0
+
+No vineyard IDs were shared between the three subsets.
+
+### 13.5 Saved Dataset Splits
+
+The three datasets were successfully exported as CSV files.
+
+Output directory: `data/processed/splits/`
+
+- `train.csv`
+- `validation.csv`
+- `test.csv`
+
+All three CSV files were reloaded and verified successfully.
+
+### 13.6 Conclusion
+
+Master dataset preparation and vineyard-aware splitting were completed successfully. The resulting datasets are ready for baseline model development.
+
+**Status:** Metadata EDA, master dataset preparation and vineyard-aware splitting completed.
