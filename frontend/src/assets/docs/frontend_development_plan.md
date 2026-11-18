@@ -1,35 +1,31 @@
 
-# TerraSpectra - Frontend Development Plan
+## Frontend Architecture and Implementation Details
 
-## Technology Stack
-- React
-- Vite
-- JavaScript
-- CSS
+### Dashboard Components
+The frontend follows a reusable component-based architecture.
 
-## Current Development Progress
-- React and Vite frontend foundation established
-- Dashboard layout initialized
-- Risk classification visualization introduced
-- Centralized risk data architecture established
-- Dashboard analytics development initiated
+- Header: Dashboard title and system status
+- Sidebar: Navigation between dashboard sections
+- MetricCard: Displays important farm monitoring metrics
+- RiskLegend: Explains disease risk classifications
+- RiskAnalytics: Presents analytical summaries
+- RiskChart: Visualizes risk distribution
 
-## Upcoming Development Tasks
+### Data Visualization
+- Centralized risk data management
+- Low, Medium, and High risk classification
+- Dynamic analytics presentation
+- Reusable visualization components
 
-### 1. Dashboard Component Architecture
-- Develop reusable dashboard components
-- Improve component organization
-- Maintain consistent UI styling
+### GIS Integration Roadmap
+- Integrate Mapbox for interactive mapping
+- Explore Deck.gl for geospatial visualization
+- Prepare GeoJSON farm boundary data
+- Display spatial crop disease predictions
 
-### 2. GIS Dashboard Integration
-- Integrate an interactive GIS map
-- Explore Mapbox and Deck.gl
-- Prepare sample GeoJSON farm boundaries
-
-### 3. Prediction Visualization
-- Display crop disease risk classifications
-- Visualize spatial risk distribution
-- Integrate prediction outputs into the dashboard
-
-## Development Objective
-Build an interactive hyperspectral crop disease forecasting dashboard combining geospatial visualization and deep learning predictions.
+### Development Priorities
+1. Complete reusable dashboard components
+2. Improve dashboard responsiveness
+3. Integrate interactive GIS visualization
+4. Connect machine learning prediction outputs
+5. Develop spatial risk visualization
