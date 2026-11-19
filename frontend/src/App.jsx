@@ -1,6 +1,6 @@
 
 import './App.css'
-
+import GISMap from './components/GISMap'
 import Sidebar from './components/Sidebar'
 import Header from './components/Header'
 import MetricCard from './components/MetricCard'
@@ -80,14 +80,7 @@ function App() {
               </span>
             </div>
 
-            <div className="map-placeholder">
-              <div className="map-message">
-                <span>GIS MAP</span>
-                <h3>Farm Map Visualization</h3>
-                <p>Geospatial layers will appear here</p>
-                <small>Waiting for GeoJSON farm boundaries</small>
-              </div>
-            </div>
+           <GISMap />
 
             <RiskLegend />
 

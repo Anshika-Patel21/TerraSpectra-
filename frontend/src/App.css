@@ -406,3 +406,144 @@
   color: #94a3b8;
   line-height: 1.5;
 }
+
+.gis-map {
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid #334155;
+}
+
+.leaflet-map {
+  width: 100%;
+  height: 100%;
+  background: #111827;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  line-height: 1.8;
+  font-size: 13px;
+}
+
+/* GIS Map Container */
+
+.gis-map-container {
+  width: 100%;
+}
+
+.gis-map {
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid #334155;
+}
+
+.leaflet-map {
+  width: 100%;
+  height: 100%;
+  background: #111827;
+}
+
+/* Selected Zone Panel */
+
+.selected-zone-panel {
+  margin-top: 16px;
+  padding: 20px;
+  background: #172238;
+  border: 1px solid #334155;
+  border-radius: 12px;
+}
+
+.selected-zone-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.selected-zone-heading h3 {
+  margin: 0;
+  color: #f1f5f9;
+}
+
+.selected-zone-heading span {
+  font-size: 11px;
+  color: #94a3b8;
+  letter-spacing: 1px;
+}
+
+.selected-zone-details {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.selected-zone-details p {
+  color: #94a3b8;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.selected-zone-details h4 {
+  color: #f8fafc;
+  font-size: 17px;
+  margin: 0;
+}
+
+.risk-badge {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.risk-low {
+  color: #4ade80;
+  background: #14532d;
+}
+
+.risk-medium {
+  color: #facc15;
+  background: #713f12;
+}
+
+.risk-high {
+  color: #fb7185;
+  background: #881337;
+}
+
+.no-zone-selected {
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+/* Leaflet Popup */
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  line-height: 1.8;
+  font-size: 13px;
+}
+
+/* Responsive GIS Panel */
+
+@media (max-width: 650px) {
+  .selected-zone-details {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .gis-map {
+    height: 320px;
+  }
+}
