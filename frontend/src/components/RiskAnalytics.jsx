@@ -1,23 +1,46 @@
 
-import { riskData } from '../data/riskData'
+const riskCategories = [
+  { label: 'Low', className: 'risk-low' },
+  { label: 'Medium', className: 'risk-medium' },
+  { label: 'High', className: 'risk-high' },
+]
 
-function RiskAnalytics() {
+function RiskAnalytics({ zones }) {
+  const analytics = riskCategories.map((category) => {
+    const matchingZones = zones.features.filter(
+      (feature) => feature.properties.risk === category.label
+    )
+
+    const totalArea = matchingZones.reduce(
+      (total, feature) => total + feature.properties.area,
+      0
+    )
+
+    return {
+      ...category,
+      zones: matchingZones.length,
+      area: totalArea,
+    }
+  })
+
   return (
     <section className="analytics-section">
       <h2>Crop Risk Analytics</h2>
 
       <p className="analytics-subtitle">
-        Illustrative distribution across monitored zones
+        Distribution based on the selected risk filter
       </p>
 
       <div className="analytics-grid">
-        {riskData.map((item) => (
-          <div className="analytics-card" key={item.id}>
+        {analytics.map((item) => (
+          <div className="analytics-card" key={item.label}>
             <span className={`risk-dot ${item.className}`}></span>
 
-            <p>{item.label} Zones</p>
+            <p>{item.label} Risk Zones</p>
 
             <h3>{item.zones}</h3>
+
+            <span>{item.area.toLocaleString()} acres</span>
           </div>
         ))}
       </div>
@@ -26,3 +49,4 @@ function RiskAnalytics() {
 }
 
 export default RiskAnalytics
+

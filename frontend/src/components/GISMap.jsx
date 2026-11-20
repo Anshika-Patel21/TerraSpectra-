@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from 'react'
 
 import {
@@ -8,7 +9,6 @@ import {
 } from 'react-leaflet'
 
 import L from 'leaflet'
-
 import { farmZones } from '../data/farmZones'
 
 const riskColors = {
@@ -17,24 +17,39 @@ const riskColors = {
   High: '#fb7185',
 }
 
-function MapBounds() {
+const filters = ['All', 'Low', 'Medium', 'High']
+
+function MapBounds({ zones }) {
   const map = useMap()
 
   useEffect(() => {
-    const bounds = L.geoJSON(farmZones).getBounds()
+    if (!zones.features.length) return
+
+    const bounds = L.geoJSON(zones).getBounds()
 
     if (bounds.isValid()) {
       map.fitBounds(bounds, {
         padding: [40, 40],
       })
     }
-  }, [map])
+  }, [map, zones])
 
   return null
 }
 
-function GISMap() {
+function GISMap({ riskFilter, onRiskFilterChange, zones }) {
   const [selectedZone, setSelectedZone] = useState(null)
+
+  useEffect(() => {
+    if (
+      selectedZone &&
+      !zones.features.some(
+        (feature) => feature.properties.id === selectedZone.id
+      )
+    ) {
+      setSelectedZone(null)
+    }
+  }, [zones, selectedZone])
 
   const getZoneStyle = (feature) => {
     const risk = feature.properties.risk
@@ -59,12 +74,7 @@ function GISMap() {
 
     layer.on({
       click: () => {
-        setSelectedZone({
-          id,
-          name,
-          risk,
-          area,
-        })
+        setSelectedZone({ id, name, risk, area })
       },
 
       mouseover: (event) => {
@@ -83,6 +93,25 @@ function GISMap() {
   return (
     <div className="gis-map-container">
 
+      <div className="risk-filter">
+        <span className="risk-filter-label">FILTER BY RISK</span>
+
+        <div className="risk-filter-options">
+          {filters.map((filter) => (
+            <button
+              key={filter}
+              type="button"
+              className={`risk-filter-button ${
+                riskFilter === filter ? 'active' : ''
+              }`}
+              onClick={() => onRiskFilterChange(filter)}
+            >
+              {filter}
+            </button>
+          ))}
+        </div>
+      </div>
+
       <div className="gis-map">
         <MapContainer
           center={[23.185, 79.957]}
@@ -96,13 +125,13 @@ function GISMap() {
           />
 
           <GeoJSON
-            key={selectedZone?.id ?? 'none'}
-            data={farmZones}
+            key={`${riskFilter}-${selectedZone?.id ?? 'none'}`}
+            data={zones}
             style={getZoneStyle}
             onEachFeature={handleEachZone}
           />
 
-          <MapBounds />
+          <MapBounds zones={zones} />
         </MapContainer>
       </div>
 
@@ -149,4 +178,5 @@ function GISMap() {
 }
 
 export default GISMap
+
 

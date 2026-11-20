@@ -547,3 +547,75 @@
     height: 320px;
   }
 }
+
+/* Risk Filter */
+
+.risk-filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.risk-filter-label {
+  color: #94a3b8;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.risk-filter-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.risk-filter-button {
+  padding: 8px 16px;
+  border: 1px solid #334155;
+  border-radius: 7px;
+  background: #172033;
+  color: #cbd5e1;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.risk-filter-button:hover {
+  border-color: #64748b;
+  background: #253249;
+}
+
+.risk-filter-button.active {
+  background: #2563eb;
+  border-color: #3b82f6;
+  color: #ffffff;
+}
+
+/* Analytics area values */
+
+.analytics-card > span:last-child {
+  display: block;
+  margin-top: 7px;
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+@media (max-width: 600px) {
+  .risk-filter {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .risk-filter-options {
+    width: 100%;
+  }
+
+  .risk-filter-button {
+    flex: 1;
+    padding: 8px 10px;
+  }
+}

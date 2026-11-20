@@ -1,5 +1,8 @@
 
+import { useMemo, useState } from 'react'
+
 import './App.css'
+
 import GISMap from './components/GISMap'
 import Sidebar from './components/Sidebar'
 import Header from './components/Header'
@@ -13,7 +16,24 @@ import {
   getHighRiskPercentage,
 } from './data/riskData'
 
+import { farmZones } from './data/farmZones'
+
 function App() {
+  const [riskFilter, setRiskFilter] = useState('All')
+
+  const filteredZones = useMemo(() => {
+    if (riskFilter === 'All') {
+      return farmZones
+    }
+
+    return {
+      ...farmZones,
+      features: farmZones.features.filter(
+        (feature) => feature.properties.risk === riskFilter
+      ),
+    }
+  }, [riskFilter])
+
   return (
     <div className="dashboard">
 
@@ -25,7 +45,6 @@ function App() {
 
         <main className="content">
 
-          {/* Dashboard heading */}
           <div className="page-heading">
             <div>
               <h1>Welcome to TerraSpectra</h1>
@@ -37,7 +56,6 @@ function App() {
             </span>
           </div>
 
-          {/* KPI Metric Cards */}
           <div className="metrics-grid">
 
             <MetricCard
@@ -64,7 +82,6 @@ function App() {
 
           </div>
 
-          {/* GIS Map */}
           <section className="map-section">
 
             <div className="section-heading">
@@ -80,17 +97,19 @@ function App() {
               </span>
             </div>
 
-           <GISMap />
+            <GISMap
+              riskFilter={riskFilter}
+              onRiskFilterChange={setRiskFilter}
+              zones={filteredZones}
+            />
 
             <RiskLegend />
 
           </section>
 
-          {/* Analytics */}
-          <RiskAnalytics />
+          <RiskAnalytics zones={filteredZones} />
 
-          {/* Risk Distribution Chart */}
-          <RiskChart />
+          <RiskChart zones={filteredZones} />
 
         </main>
       </div>
@@ -99,5 +118,6 @@ function App() {
 }
 
 export default App
+
 
 

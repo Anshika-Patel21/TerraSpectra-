@@ -27,7 +27,7 @@ export const farmZones = {
         id: 2,
         name: 'Zone B',
         risk: 'Medium',
-        area: 400,
+        area: 605,
       },
       geometry: {
         type: 'Polygon',
@@ -46,7 +46,7 @@ export const farmZones = {
         id: 3,
         name: 'Zone C',
         risk: 'High',
-        area: 250,
+        area: 45,
       },
       geometry: {
         type: 'Polygon',
@@ -61,3 +61,4 @@ export const farmZones = {
     },
   ],
 }
+
