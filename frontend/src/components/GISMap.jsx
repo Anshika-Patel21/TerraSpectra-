@@ -1,5 +1,6 @@
 
-import { useEffect, useState } from 'react'
+
+import { useEffect } from 'react'
 
 import {
   MapContainer,
@@ -28,29 +29,20 @@ function MapBounds({ zones }) {
     const bounds = L.geoJSON(zones).getBounds()
 
     if (bounds.isValid()) {
-      map.fitBounds(bounds, {
-        padding: [40, 40],
-      })
+      map.fitBounds(bounds, { padding: [40, 40] })
     }
   }, [map, zones])
 
   return null
 }
 
-function GISMap({ riskFilter, onRiskFilterChange, zones }) {
-  const [selectedZone, setSelectedZone] = useState(null)
-
-  useEffect(() => {
-    if (
-      selectedZone &&
-      !zones.features.some(
-        (feature) => feature.properties.id === selectedZone.id
-      )
-    ) {
-      setSelectedZone(null)
-    }
-  }, [zones, selectedZone])
-
+function GISMap({
+  riskFilter,
+  onRiskFilterChange,
+  zones,
+  selectedZone,
+  onZoneSelect,
+}) {
   const getZoneStyle = (feature) => {
     const risk = feature.properties.risk
     const isSelected = selectedZone?.id === feature.properties.id
@@ -74,7 +66,7 @@ function GISMap({ riskFilter, onRiskFilterChange, zones }) {
 
     layer.on({
       click: () => {
-        setSelectedZone({ id, name, risk, area })
+        onZoneSelect({ id, name, risk, area })
       },
 
       mouseover: (event) => {
@@ -136,7 +128,6 @@ function GISMap({ riskFilter, onRiskFilterChange, zones }) {
       </div>
 
       <section className="selected-zone-panel">
-
         <div className="selected-zone-heading">
           <h3>Selected Farm Zone</h3>
           <span>ZONE DETAILS</span>
@@ -144,7 +135,6 @@ function GISMap({ riskFilter, onRiskFilterChange, zones }) {
 
         {selectedZone ? (
           <div className="selected-zone-details">
-
             <div>
               <p>Zone Name</p>
               <h4>{selectedZone.name}</h4>
@@ -152,9 +142,7 @@ function GISMap({ riskFilter, onRiskFilterChange, zones }) {
 
             <div>
               <p>Risk Classification</p>
-              <span
-                className={`risk-badge risk-${selectedZone.risk.toLowerCase()}`}
-              >
+              <span className={`risk-badge risk-${selectedZone.risk.toLowerCase()}`}>
                 {selectedZone.risk} Risk
               </span>
             </div>
@@ -163,20 +151,15 @@ function GISMap({ riskFilter, onRiskFilterChange, zones }) {
               <p>Monitored Area</p>
               <h4>{selectedZone.area} acres</h4>
             </div>
-
           </div>
         ) : (
           <p className="no-zone-selected">
             Select a coloured zone on the map to view its details.
           </p>
         )}
-
       </section>
-
     </div>
   )
 }
 
 export default GISMap
-
-

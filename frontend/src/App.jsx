@@ -1,5 +1,5 @@
 
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 
 import './App.css'
 
@@ -10,6 +10,9 @@ import MetricCard from './components/MetricCard'
 import RiskLegend from './components/RiskLegend'
 import RiskAnalytics from './components/RiskAnalytics'
 import RiskChart from './components/RiskChart'
+import PredictionOverview from './components/PredictionOverview'
+import ForecastChart from './components/ForecastChart'
+import ZonePrediction from './components/ZonePrediction'
 
 import {
   farmSummary,
@@ -20,6 +23,7 @@ import { farmZones } from './data/farmZones'
 
 function App() {
   const [riskFilter, setRiskFilter] = useState('All')
+  const [selectedZone, setSelectedZone] = useState(null)
 
   const filteredZones = useMemo(() => {
     if (riskFilter === 'All') {
@@ -34,30 +38,35 @@ function App() {
     }
   }, [riskFilter])
 
+  useEffect(() => {
+    if (
+      selectedZone &&
+      !filteredZones.features.some(
+        (feature) => feature.properties.id === selectedZone.id
+      )
+    ) {
+      setSelectedZone(null)
+    }
+  }, [filteredZones, selectedZone])
+
   return (
     <div className="dashboard">
-
       <Sidebar />
 
       <div className="main-area">
-
         <Header />
 
         <main className="content">
-
           <div className="page-heading">
             <div>
               <h1>Welcome to TerraSpectra</h1>
               <p>Hyperspectral Crop Monitoring & Risk Analysis</p>
             </div>
 
-            <span className="demo-label">
-              DEMO DATA
-            </span>
+            <span className="demo-label">DEMO DATA</span>
           </div>
 
           <div className="metrics-grid">
-
             <MetricCard
               title="Total Monitored Area"
               value={farmSummary.totalArea.toLocaleString()}
@@ -79,38 +88,38 @@ function App() {
               unit="zones"
               description="Sample monitoring zones"
             />
-
           </div>
 
           <section className="map-section">
-
             <div className="section-heading">
               <div>
                 <h2>Geospatial Risk Overview</h2>
-                <p>
-                  Farm monitoring and crop stress visualization
-                </p>
+                <p>Farm monitoring and crop stress visualization</p>
               </div>
 
-              <span className="demo-label">
-                SAMPLE MAP
-              </span>
+              <span className="demo-label">SAMPLE MAP</span>
             </div>
 
             <GISMap
               riskFilter={riskFilter}
               onRiskFilterChange={setRiskFilter}
               zones={filteredZones}
+              selectedZone={selectedZone}
+              onZoneSelect={setSelectedZone}
             />
 
             <RiskLegend />
-
           </section>
 
           <RiskAnalytics zones={filteredZones} />
 
           <RiskChart zones={filteredZones} />
 
+          <PredictionOverview zones={filteredZones} />
+
+          <ForecastChart zones={filteredZones} />
+
+          <ZonePrediction selectedZone={selectedZone} />
         </main>
       </div>
     </div>
@@ -118,6 +127,7 @@ function App() {
 }
 
 export default App
+
 
 
 
