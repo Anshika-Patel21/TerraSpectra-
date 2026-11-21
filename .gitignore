@@ -224,3 +224,16 @@ __marimo__/
 data/raw/
 data/interim/
 data/processed/
+
+
+# TerraSpectra experimental model checkpoints
+models/*.keras
+!models/terraspectra_mobilenetv2_final.keras
+
+# Temporary inference prediction exports
+reports/notebook_test_predictions.csv
+reports/standalone_test_predictions.csv
+
+# Python cache
+__pycache__/
+*.py[cod]

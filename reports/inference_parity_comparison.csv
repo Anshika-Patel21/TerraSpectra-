@@ -1,0 +1,337 @@
+image_path,label_notebook,notebook_predicted_index,label_standalone,predicted_index,prediction_match
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot013.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot049.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot113.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot121.jpg,Black rot,2,Black rot,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot201.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot433.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot579.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot651.jpg,Black rot,3,Black rot,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot705.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot723.jpg,Black rot,0,Black rot,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot745.jpg,Black rot,3,Black rot,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca010.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca014.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca017.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca031.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca039.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca041.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca042.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca047.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca053.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca060.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca083.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca084.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca085.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca127.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca136.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca140.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca149.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca160.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca167.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca169.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca171.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca179.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca197.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca206.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca212.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca228.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca250.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca257.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca265.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca285.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca286.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca300.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca302.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca306.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca307.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca308.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca312.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca328.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca333.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca351.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca358.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca362.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca364.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca377.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca378.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca390.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca393.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca449.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca461.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca466.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca481.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca519.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca588.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca589.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca592.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca595.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca605.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca607.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca608.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca614.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca625.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca636.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca641.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca652.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca654.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca664.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca673.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca676.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca681.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca688.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca701.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca703.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca705.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca709.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca714.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca717.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca734.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca738.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca743.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca778.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca781.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca797.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca801.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca802.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca820.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca821.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca832.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca838.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca861.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca880.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca883.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca884.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight001.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight023.jpg,leaf blight,0,leaf blight,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight031.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight041.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight046.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight051.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight058.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight059.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight077.jpg,leaf blight,0,leaf blight,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight082.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight125.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight130.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight133.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight143.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight146.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight175.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight177.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight182.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight187.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight201.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight213.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight219.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight234.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight245.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight263.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight320.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight333.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight374.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight375.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight379.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight385.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight439.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight451.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight457.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight463.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight483.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight489.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight495.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight502.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight521.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight545.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight563.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight613.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight615.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight659.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy012.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy025.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy026.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy027.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy035.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy040.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy046.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy064.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy080.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy083.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy084.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy090.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy098.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1005.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1014.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1018.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1021.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1032.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1040.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1043.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1047.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1073.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1075.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1077.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1079.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1084.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1086.jpg,healthy,0,healthy,0,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1090.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1091.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1102.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1103.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1109.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy135.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy138.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy141.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy153.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy162.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy163.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy174.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy185.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy189.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy196.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy208.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy213.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy215.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy221.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy229.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy242.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy269.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy279.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy292.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy297.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy308.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy342.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy346.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy354.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy360.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy367.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy379.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy380.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy383.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy384.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy409.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy441.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy442.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy464.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy467.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy477.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy483.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy491.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy497.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy501.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy502.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy530.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy545.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy547.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy551.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy559.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy584.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy588.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy590.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy592.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy608.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy623.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy642.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy643.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy646.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy658.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy685.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy686.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy691.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy713.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy727.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy741.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy753.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy776.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy777.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy782.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy785.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy793.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy807.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy829.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy849.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy854.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy857.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy869.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy870.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy873.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy880.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy890.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy896.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy897.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy918.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy926.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy948.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy964.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy970.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy988.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca062.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca102.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca128.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca157.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca164.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca170.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca226.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca323.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca347.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca379.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca383.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca385.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca394.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca406.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca456.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca468.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca470.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca493.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca495.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca517.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca528.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca537.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca573.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca578.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca627.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca646.jpg,esca,3,esca,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca674.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca735.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca769.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca793.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca803.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca804.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca862.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca871.jpg,esca,1,esca,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight185.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight413.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight485.jpg,leaf blight,1,leaf blight,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight589.jpg,leaf blight,3,leaf blight,3,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy024.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1015.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1020.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1045.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1094.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy133.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy148.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy154.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy202.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy223.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy248.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy270.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy345.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy371.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy395.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy427.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy478.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy503.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy549.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy597.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy603.jpg,healthy,1,healthy,1,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy660.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy667.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy709.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy763.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy811.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy830.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy932.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy972.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy975.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy978.jpg,healthy,2,healthy,2,True
+C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy985.jpg,healthy,2,healthy,2,True

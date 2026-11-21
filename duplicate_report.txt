@@ -1,0 +1,2417 @@
+DUPLICATE IMAGE REPORT
+--------------------------------------------------
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot001.jpg
+  data\processed\GVLiD_224\Black rot\black rot002.jpg
+  data\processed\GVLiD_224\Black rot\black rot003.jpg
+  data\processed\GVLiD_224\Black rot\black rot004.jpg
+  data\processed\GVLiD_224\Black rot\black rot005.jpg
+  data\processed\GVLiD_224\Black rot\black rot006.jpg
+  data\processed\GVLiD_224\Black rot\black rot007.jpg
+  data\processed\GVLiD_224\Black rot\black rot008.jpg
+  data\processed\GVLiD_224\Black rot\mega dataset (31) - Copy - Copy - Copy.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot009.jpg
+  data\processed\GVLiD_224\Black rot\black rot010.jpg
+  data\processed\GVLiD_224\Black rot\black rot011.jpg
+  data\processed\GVLiD_224\Black rot\black rot012.jpg
+  data\processed\GVLiD_224\Black rot\black rot017.jpg
+  data\processed\GVLiD_224\Black rot\black rot018.jpg
+  data\processed\GVLiD_224\Black rot\black rot021.jpg
+  data\processed\GVLiD_224\Black rot\black rot022.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot013.jpg
+  data\processed\GVLiD_224\Black rot\black rot014.jpg
+  data\processed\GVLiD_224\Black rot\black rot015.jpg
+  data\processed\GVLiD_224\Black rot\black rot016.jpg
+  data\processed\GVLiD_224\Black rot\black rot019.jpg
+  data\processed\GVLiD_224\Black rot\black rot023.jpg
+  data\processed\GVLiD_224\Black rot\black rot024.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot025.jpg
+  data\processed\GVLiD_224\Black rot\black rot026.jpg
+  data\processed\GVLiD_224\Black rot\black rot027.jpg
+  data\processed\GVLiD_224\Black rot\black rot028.jpg
+  data\processed\GVLiD_224\Black rot\black rot029.jpg
+  data\processed\GVLiD_224\Black rot\black rot030.jpg
+  data\processed\GVLiD_224\Black rot\black rot031.jpg
+  data\processed\GVLiD_224\Black rot\black rot032.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot033.jpg
+  data\processed\GVLiD_224\Black rot\black rot034.jpg
+  data\processed\GVLiD_224\Black rot\black rot035.jpg
+  data\processed\GVLiD_224\Black rot\black rot036.jpg
+  data\processed\GVLiD_224\Black rot\black rot037.jpg
+  data\processed\GVLiD_224\Black rot\black rot038.jpg
+  data\processed\GVLiD_224\Black rot\black rot039.jpg
+  data\processed\GVLiD_224\Black rot\black rot040.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot041.jpg
+  data\processed\GVLiD_224\Black rot\black rot042.jpg
+  data\processed\GVLiD_224\Black rot\black rot043.jpg
+  data\processed\GVLiD_224\Black rot\black rot044.jpg
+  data\processed\GVLiD_224\Black rot\black rot045.jpg
+  data\processed\GVLiD_224\Black rot\black rot046.jpg
+  data\processed\GVLiD_224\Black rot\black rot047.jpg
+  data\processed\GVLiD_224\Black rot\black rot048.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot049.jpg
+  data\processed\GVLiD_224\Black rot\black rot050.jpg
+  data\processed\GVLiD_224\Black rot\black rot051.jpg
+  data\processed\GVLiD_224\Black rot\black rot052.jpg
+  data\processed\GVLiD_224\Black rot\black rot053.jpg
+  data\processed\GVLiD_224\Black rot\black rot054.jpg
+  data\processed\GVLiD_224\Black rot\black rot055.jpg
+  data\processed\GVLiD_224\Black rot\black rot056.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot057.jpg
+  data\processed\GVLiD_224\Black rot\black rot058.jpg
+  data\processed\GVLiD_224\Black rot\black rot059.jpg
+  data\processed\GVLiD_224\Black rot\black rot060.jpg
+  data\processed\GVLiD_224\Black rot\black rot061.jpg
+  data\processed\GVLiD_224\Black rot\black rot062.jpg
+  data\processed\GVLiD_224\Black rot\black rot063.jpg
+  data\processed\GVLiD_224\Black rot\black rot064.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot065.jpg
+  data\processed\GVLiD_224\Black rot\black rot066.jpg
+  data\processed\GVLiD_224\Black rot\black rot067.jpg
+  data\processed\GVLiD_224\Black rot\black rot068.jpg
+  data\processed\GVLiD_224\Black rot\black rot077.jpg
+  data\processed\GVLiD_224\Black rot\black rot078.jpg
+  data\processed\GVLiD_224\Black rot\black rot087.jpg
+  data\processed\GVLiD_224\Black rot\black rot090.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot069.jpg
+  data\processed\GVLiD_224\Black rot\black rot070.jpg
+  data\processed\GVLiD_224\Black rot\black rot071.jpg
+  data\processed\GVLiD_224\Black rot\black rot072.jpg
+  data\processed\GVLiD_224\Black rot\black rot083.jpg
+  data\processed\GVLiD_224\Black rot\black rot084.jpg
+  data\processed\GVLiD_224\Black rot\black rot091.jpg
+  data\processed\GVLiD_224\Black rot\black rot092.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot073.jpg
+  data\processed\GVLiD_224\Black rot\black rot074.jpg
+  data\processed\GVLiD_224\Black rot\black rot075.jpg
+  data\processed\GVLiD_224\Black rot\black rot076.jpg
+  data\processed\GVLiD_224\Black rot\black rot085.jpg
+  data\processed\GVLiD_224\Black rot\black rot086.jpg
+  data\processed\GVLiD_224\Black rot\black rot093.jpg
+  data\processed\GVLiD_224\Black rot\black rot094.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot079.jpg
+  data\processed\GVLiD_224\Black rot\black rot080.jpg
+  data\processed\GVLiD_224\Black rot\black rot081.jpg
+  data\processed\GVLiD_224\Black rot\black rot082.jpg
+  data\processed\GVLiD_224\Black rot\black rot088.jpg
+  data\processed\GVLiD_224\Black rot\black rot089.jpg
+  data\processed\GVLiD_224\Black rot\black rot095.jpg
+  data\processed\GVLiD_224\Black rot\black rot096.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot097.jpg
+  data\processed\GVLiD_224\Black rot\black rot098.jpg
+  data\processed\GVLiD_224\Black rot\black rot099.jpg
+  data\processed\GVLiD_224\Black rot\black rot100.jpg
+  data\processed\GVLiD_224\Black rot\black rot105.jpg
+  data\processed\GVLiD_224\Black rot\black rot106.jpg
+  data\processed\GVLiD_224\Black rot\black rot109.jpg
+  data\processed\GVLiD_224\Black rot\black rot110.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot101.jpg
+  data\processed\GVLiD_224\Black rot\black rot102.jpg
+  data\processed\GVLiD_224\Black rot\black rot103.jpg
+  data\processed\GVLiD_224\Black rot\black rot104.jpg
+  data\processed\GVLiD_224\Black rot\black rot107.jpg
+  data\processed\GVLiD_224\Black rot\black rot108.jpg
+  data\processed\GVLiD_224\Black rot\black rot111.jpg
+  data\processed\GVLiD_224\Black rot\black rot112.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot113.jpg
+  data\processed\GVLiD_224\Black rot\black rot114.jpg
+  data\processed\GVLiD_224\Black rot\black rot115.jpg
+  data\processed\GVLiD_224\Black rot\black rot116.jpg
+  data\processed\GVLiD_224\Black rot\black rot117.jpg
+  data\processed\GVLiD_224\Black rot\black rot118.jpg
+  data\processed\GVLiD_224\Black rot\black rot119.jpg
+  data\processed\GVLiD_224\Black rot\black rot120.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot121.jpg
+  data\processed\GVLiD_224\Black rot\black rot122.jpg
+  data\processed\GVLiD_224\Black rot\black rot123.jpg
+  data\processed\GVLiD_224\Black rot\black rot124.jpg
+  data\processed\GVLiD_224\Black rot\black rot125.jpg
+  data\processed\GVLiD_224\Black rot\black rot126.jpg
+  data\processed\GVLiD_224\Black rot\black rot127.jpg
+  data\processed\GVLiD_224\Black rot\black rot128.jpg
+  data\processed\GVLiD_224\Black rot\black rot129.jpg
+  data\processed\GVLiD_224\Black rot\black rot130.jpg
+  data\processed\GVLiD_224\Black rot\black rot131.jpg
+  data\processed\GVLiD_224\Black rot\black rot132.jpg
+  data\processed\GVLiD_224\Black rot\black rot133.jpg
+  data\processed\GVLiD_224\Black rot\black rot134.jpg
+  data\processed\GVLiD_224\Black rot\black rot135.jpg
+  data\processed\GVLiD_224\Black rot\black rot136.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot137.jpg
+  data\processed\GVLiD_224\Black rot\black rot138.jpg
+  data\processed\GVLiD_224\Black rot\black rot139.jpg
+  data\processed\GVLiD_224\Black rot\black rot140.jpg
+  data\processed\GVLiD_224\Black rot\black rot141.jpg
+  data\processed\GVLiD_224\Black rot\black rot142.jpg
+  data\processed\GVLiD_224\Black rot\black rot143.jpg
+  data\processed\GVLiD_224\Black rot\black rot144.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot145.jpg
+  data\processed\GVLiD_224\Black rot\black rot146.jpg
+  data\processed\GVLiD_224\Black rot\black rot147.jpg
+  data\processed\GVLiD_224\Black rot\black rot148.jpg
+  data\processed\GVLiD_224\Black rot\black rot149.jpg
+  data\processed\GVLiD_224\Black rot\black rot150.jpg
+  data\processed\GVLiD_224\Black rot\black rot151.jpg
+  data\processed\GVLiD_224\Black rot\black rot152.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot153.jpg
+  data\processed\GVLiD_224\Black rot\black rot154.jpg
+  data\processed\GVLiD_224\Black rot\black rot155.jpg
+  data\processed\GVLiD_224\Black rot\black rot156.jpg
+  data\processed\GVLiD_224\Black rot\black rot157.jpg
+  data\processed\GVLiD_224\Black rot\black rot158.jpg
+  data\processed\GVLiD_224\Black rot\black rot167.jpg
+  data\processed\GVLiD_224\Black rot\black rot178.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot159.jpg
+  data\processed\GVLiD_224\Black rot\black rot160.jpg
+  data\processed\GVLiD_224\Black rot\black rot161.jpg
+  data\processed\GVLiD_224\Black rot\black rot162.jpg
+  data\processed\GVLiD_224\Black rot\black rot168.jpg
+  data\processed\GVLiD_224\Black rot\black rot173.jpg
+  data\processed\GVLiD_224\Black rot\black rot177.jpg
+  data\processed\GVLiD_224\Black rot\black rot192.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot163.jpg
+  data\processed\GVLiD_224\Black rot\black rot164.jpg
+  data\processed\GVLiD_224\Black rot\black rot165.jpg
+  data\processed\GVLiD_224\Black rot\black rot166.jpg
+  data\processed\GVLiD_224\Black rot\black rot174.jpg
+  data\processed\GVLiD_224\Black rot\black rot175.jpg
+  data\processed\GVLiD_224\Black rot\black rot193.jpg
+  data\processed\GVLiD_224\Black rot\black rot194.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot169.jpg
+  data\processed\GVLiD_224\Black rot\black rot170.jpg
+  data\processed\GVLiD_224\Black rot\black rot171.jpg
+  data\processed\GVLiD_224\Black rot\black rot172.jpg
+  data\processed\GVLiD_224\Black rot\black rot176.jpg
+  data\processed\GVLiD_224\Black rot\black rot191.jpg
+  data\processed\GVLiD_224\Black rot\black rot207.jpg
+  data\processed\GVLiD_224\Black rot\black rot256.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot179.jpg
+  data\processed\GVLiD_224\Black rot\black rot180.jpg
+  data\processed\GVLiD_224\Black rot\black rot181.jpg
+  data\processed\GVLiD_224\Black rot\black rot182.jpg
+  data\processed\GVLiD_224\Black rot\black rot183.jpg
+  data\processed\GVLiD_224\Black rot\black rot184.jpg
+  data\processed\GVLiD_224\Black rot\black rot185.jpg
+  data\processed\GVLiD_224\Black rot\black rot186.jpg
+  data\processed\GVLiD_224\Black rot\black rot187.jpg
+  data\processed\GVLiD_224\Black rot\black rot188.jpg
+  data\processed\GVLiD_224\Black rot\black rot189.jpg
+  data\processed\GVLiD_224\Black rot\black rot190.jpg
+  data\processed\GVLiD_224\Black rot\black rot213.jpg
+  data\processed\GVLiD_224\Black rot\black rot215.jpg
+  data\processed\GVLiD_224\Black rot\black rot229.jpg
+  data\processed\GVLiD_224\Black rot\black rot258.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot195.jpg
+  data\processed\GVLiD_224\Black rot\black rot196.jpg
+  data\processed\GVLiD_224\Black rot\black rot197.jpg
+  data\processed\GVLiD_224\Black rot\black rot198.jpg
+  data\processed\GVLiD_224\Black rot\black rot208.jpg
+  data\processed\GVLiD_224\Black rot\black rot231.jpg
+  data\processed\GVLiD_224\Black rot\black rot249.jpg
+  data\processed\GVLiD_224\Black rot\black rot260.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot199.jpg
+  data\processed\GVLiD_224\Black rot\black rot200.jpg
+  data\processed\GVLiD_224\Black rot\black rot201.jpg
+  data\processed\GVLiD_224\Black rot\black rot202.jpg
+  data\processed\GVLiD_224\Black rot\black rot214.jpg
+  data\processed\GVLiD_224\Black rot\black rot241.jpg
+  data\processed\GVLiD_224\Black rot\black rot253.jpg
+  data\processed\GVLiD_224\Black rot\black rot262.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot203.jpg
+  data\processed\GVLiD_224\Black rot\black rot204.jpg
+  data\processed\GVLiD_224\Black rot\black rot205.jpg
+  data\processed\GVLiD_224\Black rot\black rot206.jpg
+  data\processed\GVLiD_224\Black rot\black rot216.jpg
+  data\processed\GVLiD_224\Black rot\black rot247.jpg
+  data\processed\GVLiD_224\Black rot\black rot255.jpg
+  data\processed\GVLiD_224\Black rot\black rot264.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot209.jpg
+  data\processed\GVLiD_224\Black rot\black rot210.jpg
+  data\processed\GVLiD_224\Black rot\black rot211.jpg
+  data\processed\GVLiD_224\Black rot\black rot212.jpg
+  data\processed\GVLiD_224\Black rot\black rot230.jpg
+  data\processed\GVLiD_224\Black rot\black rot251.jpg
+  data\processed\GVLiD_224\Black rot\black rot263.jpg
+  data\processed\GVLiD_224\Black rot\black rot266.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot217.jpg
+  data\processed\GVLiD_224\Black rot\black rot218.jpg
+  data\processed\GVLiD_224\Black rot\black rot219.jpg
+  data\processed\GVLiD_224\Black rot\black rot220.jpg
+  data\processed\GVLiD_224\Black rot\black rot232.jpg
+  data\processed\GVLiD_224\Black rot\black rot257.jpg
+  data\processed\GVLiD_224\Black rot\black rot265.jpg
+  data\processed\GVLiD_224\Black rot\black rot268.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot221.jpg
+  data\processed\GVLiD_224\Black rot\black rot222.jpg
+  data\processed\GVLiD_224\Black rot\black rot223.jpg
+  data\processed\GVLiD_224\Black rot\black rot224.jpg
+  data\processed\GVLiD_224\Black rot\black rot242.jpg
+  data\processed\GVLiD_224\Black rot\black rot259.jpg
+  data\processed\GVLiD_224\Black rot\black rot275.jpg
+  data\processed\GVLiD_224\Black rot\black rot276.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot225.jpg
+  data\processed\GVLiD_224\Black rot\black rot226.jpg
+  data\processed\GVLiD_224\Black rot\black rot227.jpg
+  data\processed\GVLiD_224\Black rot\black rot228.jpg
+  data\processed\GVLiD_224\Black rot\black rot248.jpg
+  data\processed\GVLiD_224\Black rot\black rot261.jpg
+  data\processed\GVLiD_224\Black rot\black rot278.jpg
+  data\processed\GVLiD_224\Black rot\black rot279.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot233.jpg
+  data\processed\GVLiD_224\Black rot\black rot234.jpg
+  data\processed\GVLiD_224\Black rot\black rot235.jpg
+  data\processed\GVLiD_224\Black rot\black rot236.jpg
+  data\processed\GVLiD_224\Black rot\black rot250.jpg
+  data\processed\GVLiD_224\Black rot\black rot267.jpg
+  data\processed\GVLiD_224\Black rot\black rot280.jpg
+  data\processed\GVLiD_224\Black rot\black rot281.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot237.jpg
+  data\processed\GVLiD_224\Black rot\black rot238.jpg
+  data\processed\GVLiD_224\Black rot\black rot239.jpg
+  data\processed\GVLiD_224\Black rot\black rot240.jpg
+  data\processed\GVLiD_224\Black rot\black rot252.jpg
+  data\processed\GVLiD_224\Black rot\black rot273.jpg
+  data\processed\GVLiD_224\Black rot\black rot282.jpg
+  data\processed\GVLiD_224\Black rot\black rot283.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot243.jpg
+  data\processed\GVLiD_224\Black rot\black rot244.jpg
+  data\processed\GVLiD_224\Black rot\black rot245.jpg
+  data\processed\GVLiD_224\Black rot\black rot246.jpg
+  data\processed\GVLiD_224\Black rot\black rot254.jpg
+  data\processed\GVLiD_224\Black rot\black rot277.jpg
+  data\processed\GVLiD_224\Black rot\black rot284.jpg
+  data\processed\GVLiD_224\Black rot\black rot289.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot269.jpg
+  data\processed\GVLiD_224\Black rot\black rot270.jpg
+  data\processed\GVLiD_224\Black rot\black rot271.jpg
+  data\processed\GVLiD_224\Black rot\black rot272.jpg
+  data\processed\GVLiD_224\Black rot\black rot274.jpg
+  data\processed\GVLiD_224\Black rot\black rot299.jpg
+  data\processed\GVLiD_224\Black rot\black rot301.jpg
+  data\processed\GVLiD_224\Black rot\black rot304.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot285.jpg
+  data\processed\GVLiD_224\Black rot\black rot286.jpg
+  data\processed\GVLiD_224\Black rot\black rot287.jpg
+  data\processed\GVLiD_224\Black rot\black rot288.jpg
+  data\processed\GVLiD_224\Black rot\black rot290.jpg
+  data\processed\GVLiD_224\Black rot\black rot303.jpg
+  data\processed\GVLiD_224\Black rot\black rot305.jpg
+  data\processed\GVLiD_224\Black rot\black rot306.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot291.jpg
+  data\processed\GVLiD_224\Black rot\black rot292.jpg
+  data\processed\GVLiD_224\Black rot\black rot293.jpg
+  data\processed\GVLiD_224\Black rot\black rot294.jpg
+  data\processed\GVLiD_224\Black rot\black rot300.jpg
+  data\processed\GVLiD_224\Black rot\black rot315.jpg
+  data\processed\GVLiD_224\Black rot\black rot319.jpg
+  data\processed\GVLiD_224\Black rot\black rot320.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot295.jpg
+  data\processed\GVLiD_224\Black rot\black rot296.jpg
+  data\processed\GVLiD_224\Black rot\black rot297.jpg
+  data\processed\GVLiD_224\Black rot\black rot298.jpg
+  data\processed\GVLiD_224\Black rot\black rot302.jpg
+  data\processed\GVLiD_224\Black rot\black rot317.jpg
+  data\processed\GVLiD_224\Black rot\black rot329.jpg
+  data\processed\GVLiD_224\Black rot\black rot560.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot307.jpg
+  data\processed\GVLiD_224\Black rot\black rot308.jpg
+  data\processed\GVLiD_224\Black rot\black rot309.jpg
+  data\processed\GVLiD_224\Black rot\black rot310.jpg
+  data\processed\GVLiD_224\Black rot\black rot316.jpg
+  data\processed\GVLiD_224\Black rot\black rot331.jpg
+  data\processed\GVLiD_224\Black rot\black rot363.jpg
+  data\processed\GVLiD_224\Black rot\black rot562.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot311.jpg
+  data\processed\GVLiD_224\Black rot\black rot312.jpg
+  data\processed\GVLiD_224\Black rot\black rot313.jpg
+  data\processed\GVLiD_224\Black rot\black rot314.jpg
+  data\processed\GVLiD_224\Black rot\black rot318.jpg
+  data\processed\GVLiD_224\Black rot\black rot357.jpg
+  data\processed\GVLiD_224\Black rot\black rot365.jpg
+  data\processed\GVLiD_224\Black rot\black rot564.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot321.jpg
+  data\processed\GVLiD_224\Black rot\black rot322.jpg
+  data\processed\GVLiD_224\Black rot\black rot323.jpg
+  data\processed\GVLiD_224\Black rot\black rot324.jpg
+  data\processed\GVLiD_224\Black rot\black rot330.jpg
+  data\processed\GVLiD_224\Black rot\black rot367.jpg
+  data\processed\GVLiD_224\Black rot\black rot435.jpg
+  data\processed\GVLiD_224\Black rot\black rot566.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot325.jpg
+  data\processed\GVLiD_224\Black rot\black rot326.jpg
+  data\processed\GVLiD_224\Black rot\black rot327.jpg
+  data\processed\GVLiD_224\Black rot\black rot328.jpg
+  data\processed\GVLiD_224\Black rot\black rot332.jpg
+  data\processed\GVLiD_224\Black rot\black rot401.jpg
+  data\processed\GVLiD_224\Black rot\black rot437.jpg
+  data\processed\GVLiD_224\Black rot\black rot568.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot333.jpg
+  data\processed\GVLiD_224\Black rot\black rot334.jpg
+  data\processed\GVLiD_224\Black rot\black rot335.jpg
+  data\processed\GVLiD_224\Black rot\black rot336.jpg
+  data\processed\GVLiD_224\Black rot\black rot358.jpg
+  data\processed\GVLiD_224\Black rot\black rot439.jpg
+  data\processed\GVLiD_224\Black rot\black rot567.jpg
+  data\processed\GVLiD_224\Black rot\black rot570.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot337.jpg
+  data\processed\GVLiD_224\Black rot\black rot338.jpg
+  data\processed\GVLiD_224\Black rot\black rot339.jpg
+  data\processed\GVLiD_224\Black rot\black rot340.jpg
+  data\processed\GVLiD_224\Black rot\black rot364.jpg
+  data\processed\GVLiD_224\Black rot\black rot441.jpg
+  data\processed\GVLiD_224\Black rot\black rot571.jpg
+  data\processed\GVLiD_224\Black rot\black rot572.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot341.jpg
+  data\processed\GVLiD_224\Black rot\black rot342.jpg
+  data\processed\GVLiD_224\Black rot\black rot343.jpg
+  data\processed\GVLiD_224\Black rot\black rot344.jpg
+  data\processed\GVLiD_224\Black rot\black rot366.jpg
+  data\processed\GVLiD_224\Black rot\black rot559.jpg
+  data\processed\GVLiD_224\Black rot\black rot573.jpg
+  data\processed\GVLiD_224\Black rot\black rot574.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot345.jpg
+  data\processed\GVLiD_224\Black rot\black rot346.jpg
+  data\processed\GVLiD_224\Black rot\black rot347.jpg
+  data\processed\GVLiD_224\Black rot\black rot348.jpg
+  data\processed\GVLiD_224\Black rot\black rot368.jpg
+  data\processed\GVLiD_224\Black rot\black rot561.jpg
+  data\processed\GVLiD_224\Black rot\black rot575.jpg
+  data\processed\GVLiD_224\Black rot\black rot576.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot349.jpg
+  data\processed\GVLiD_224\Black rot\black rot350.jpg
+  data\processed\GVLiD_224\Black rot\black rot351.jpg
+  data\processed\GVLiD_224\Black rot\black rot352.jpg
+  data\processed\GVLiD_224\Black rot\black rot402.jpg
+  data\processed\GVLiD_224\Black rot\black rot563.jpg
+  data\processed\GVLiD_224\Black rot\black rot578.jpg
+  data\processed\GVLiD_224\Black rot\black rot617.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot353.jpg
+  data\processed\GVLiD_224\Black rot\black rot354.jpg
+  data\processed\GVLiD_224\Black rot\black rot355.jpg
+  data\processed\GVLiD_224\Black rot\black rot356.jpg
+  data\processed\GVLiD_224\Black rot\black rot436.jpg
+  data\processed\GVLiD_224\Black rot\black rot565.jpg
+  data\processed\GVLiD_224\Black rot\black rot596.jpg
+  data\processed\GVLiD_224\Black rot\black rot643.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot359.jpg
+  data\processed\GVLiD_224\Black rot\black rot360.jpg
+  data\processed\GVLiD_224\Black rot\black rot361.jpg
+  data\processed\GVLiD_224\Black rot\black rot362.jpg
+  data\processed\GVLiD_224\Black rot\black rot438.jpg
+  data\processed\GVLiD_224\Black rot\black rot569.jpg
+  data\processed\GVLiD_224\Black rot\black rot598.jpg
+  data\processed\GVLiD_224\Black rot\black rot645.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot369.jpg
+  data\processed\GVLiD_224\Black rot\black rot370.jpg
+  data\processed\GVLiD_224\Black rot\black rot371.jpg
+  data\processed\GVLiD_224\Black rot\black rot372.jpg
+  data\processed\GVLiD_224\Black rot\black rot440.jpg
+  data\processed\GVLiD_224\Black rot\black rot577.jpg
+  data\processed\GVLiD_224\Black rot\black rot600.jpg
+  data\processed\GVLiD_224\Black rot\black rot647.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot373.jpg
+  data\processed\GVLiD_224\Black rot\black rot374.jpg
+  data\processed\GVLiD_224\Black rot\black rot375.jpg
+  data\processed\GVLiD_224\Black rot\black rot376.jpg
+  data\processed\GVLiD_224\Black rot\black rot442.jpg
+  data\processed\GVLiD_224\Black rot\black rot595.jpg
+  data\processed\GVLiD_224\Black rot\black rot602.jpg
+  data\processed\GVLiD_224\Black rot\black rot648.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot377.jpg
+  data\processed\GVLiD_224\Black rot\black rot378.jpg
+  data\processed\GVLiD_224\Black rot\black rot379.jpg
+  data\processed\GVLiD_224\Black rot\black rot380.jpg
+  data\processed\GVLiD_224\Black rot\black rot450.jpg
+  data\processed\GVLiD_224\Black rot\black rot451.jpg
+  data\processed\GVLiD_224\Black rot\black rot597.jpg
+  data\processed\GVLiD_224\Black rot\black rot604.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot381.jpg
+  data\processed\GVLiD_224\Black rot\black rot382.jpg
+  data\processed\GVLiD_224\Black rot\black rot383.jpg
+  data\processed\GVLiD_224\Black rot\black rot384.jpg
+  data\processed\GVLiD_224\Black rot\black rot452.jpg
+  data\processed\GVLiD_224\Black rot\black rot453.jpg
+  data\processed\GVLiD_224\Black rot\black rot599.jpg
+  data\processed\GVLiD_224\Black rot\black rot606.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot385.jpg
+  data\processed\GVLiD_224\Black rot\black rot386.jpg
+  data\processed\GVLiD_224\Black rot\black rot387.jpg
+  data\processed\GVLiD_224\Black rot\black rot388.jpg
+  data\processed\GVLiD_224\Black rot\black rot454.jpg
+  data\processed\GVLiD_224\Black rot\black rot455.jpg
+  data\processed\GVLiD_224\Black rot\black rot601.jpg
+  data\processed\GVLiD_224\Black rot\black rot608.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot389.jpg
+  data\processed\GVLiD_224\Black rot\black rot390.jpg
+  data\processed\GVLiD_224\Black rot\black rot391.jpg
+  data\processed\GVLiD_224\Black rot\black rot392.jpg
+  data\processed\GVLiD_224\Black rot\black rot456.jpg
+  data\processed\GVLiD_224\Black rot\black rot469.jpg
+  data\processed\GVLiD_224\Black rot\black rot603.jpg
+  data\processed\GVLiD_224\Black rot\black rot618.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot393.jpg
+  data\processed\GVLiD_224\Black rot\black rot394.jpg
+  data\processed\GVLiD_224\Black rot\black rot395.jpg
+  data\processed\GVLiD_224\Black rot\black rot396.jpg
+  data\processed\GVLiD_224\Black rot\black rot512.jpg
+  data\processed\GVLiD_224\Black rot\black rot535.jpg
+  data\processed\GVLiD_224\Black rot\black rot605.jpg
+  data\processed\GVLiD_224\Black rot\black rot620.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot397.jpg
+  data\processed\GVLiD_224\Black rot\black rot398.jpg
+  data\processed\GVLiD_224\Black rot\black rot399.jpg
+  data\processed\GVLiD_224\Black rot\black rot400.jpg
+  data\processed\GVLiD_224\Black rot\black rot514.jpg
+  data\processed\GVLiD_224\Black rot\black rot537.jpg
+  data\processed\GVLiD_224\Black rot\black rot607.jpg
+  data\processed\GVLiD_224\Black rot\black rot622.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot403.jpg
+  data\processed\GVLiD_224\Black rot\black rot404.jpg
+  data\processed\GVLiD_224\Black rot\black rot405.jpg
+  data\processed\GVLiD_224\Black rot\black rot406.jpg
+  data\processed\GVLiD_224\Black rot\black rot516.jpg
+  data\processed\GVLiD_224\Black rot\black rot539.jpg
+  data\processed\GVLiD_224\Black rot\black rot619.jpg
+  data\processed\GVLiD_224\Black rot\black rot624.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot407.jpg
+  data\processed\GVLiD_224\Black rot\black rot408.jpg
+  data\processed\GVLiD_224\Black rot\black rot409.jpg
+  data\processed\GVLiD_224\Black rot\black rot410.jpg
+  data\processed\GVLiD_224\Black rot\black rot518.jpg
+  data\processed\GVLiD_224\Black rot\black rot541.jpg
+  data\processed\GVLiD_224\Black rot\black rot621.jpg
+  data\processed\GVLiD_224\Black rot\black rot626.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot411.jpg
+  data\processed\GVLiD_224\Black rot\black rot412.jpg
+  data\processed\GVLiD_224\Black rot\black rot413.jpg
+  data\processed\GVLiD_224\Black rot\black rot414.jpg
+  data\processed\GVLiD_224\Black rot\black rot520.jpg
+  data\processed\GVLiD_224\Black rot\black rot543.jpg
+  data\processed\GVLiD_224\Black rot\black rot623.jpg
+  data\processed\GVLiD_224\Black rot\black rot628.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot415.jpg
+  data\processed\GVLiD_224\Black rot\black rot416.jpg
+  data\processed\GVLiD_224\Black rot\black rot417.jpg
+  data\processed\GVLiD_224\Black rot\black rot418.jpg
+  data\processed\GVLiD_224\Black rot\black rot528.jpg
+  data\processed\GVLiD_224\Black rot\black rot549.jpg
+  data\processed\GVLiD_224\Black rot\black rot625.jpg
+  data\processed\GVLiD_224\Black rot\black rot638.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot419.jpg
+  data\processed\GVLiD_224\Black rot\black rot420.jpg
+  data\processed\GVLiD_224\Black rot\black rot421.jpg
+  data\processed\GVLiD_224\Black rot\black rot422.jpg
+  data\processed\GVLiD_224\Black rot\black rot530.jpg
+  data\processed\GVLiD_224\Black rot\black rot551.jpg
+  data\processed\GVLiD_224\Black rot\black rot627.jpg
+  data\processed\GVLiD_224\Black rot\black rot640.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot423.jpg
+  data\processed\GVLiD_224\Black rot\black rot424.jpg
+  data\processed\GVLiD_224\Black rot\black rot425.jpg
+  data\processed\GVLiD_224\Black rot\black rot426.jpg
+  data\processed\GVLiD_224\Black rot\black rot532.jpg
+  data\processed\GVLiD_224\Black rot\black rot553.jpg
+  data\processed\GVLiD_224\Black rot\black rot637.jpg
+  data\processed\GVLiD_224\Black rot\black rot642.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot427.jpg
+  data\processed\GVLiD_224\Black rot\black rot428.jpg
+  data\processed\GVLiD_224\Black rot\black rot429.jpg
+  data\processed\GVLiD_224\Black rot\black rot430.jpg
+  data\processed\GVLiD_224\Black rot\black rot534.jpg
+  data\processed\GVLiD_224\Black rot\black rot555.jpg
+  data\processed\GVLiD_224\Black rot\black rot639.jpg
+  data\processed\GVLiD_224\Black rot\black rot644.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot431.jpg
+  data\processed\GVLiD_224\Black rot\black rot432.jpg
+  data\processed\GVLiD_224\Black rot\black rot433.jpg
+  data\processed\GVLiD_224\Black rot\black rot434.jpg
+  data\processed\GVLiD_224\Black rot\black rot536.jpg
+  data\processed\GVLiD_224\Black rot\black rot557.jpg
+  data\processed\GVLiD_224\Black rot\black rot641.jpg
+  data\processed\GVLiD_224\Black rot\black rot646.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot443.jpg
+  data\processed\GVLiD_224\Black rot\black rot444.jpg
+  data\processed\GVLiD_224\Black rot\black rot445.jpg
+  data\processed\GVLiD_224\Black rot\black rot446.jpg
+  data\processed\GVLiD_224\Black rot\black rot447.jpg
+  data\processed\GVLiD_224\Black rot\black rot448.jpg
+  data\processed\GVLiD_224\Black rot\black rot449.jpg
+  data\processed\GVLiD_224\Black rot\black rot538.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot457.jpg
+  data\processed\GVLiD_224\Black rot\black rot458.jpg
+  data\processed\GVLiD_224\Black rot\black rot459.jpg
+  data\processed\GVLiD_224\Black rot\black rot460.jpg
+  data\processed\GVLiD_224\Black rot\black rot470.jpg
+  data\processed\GVLiD_224\Black rot\black rot475.jpg
+  data\processed\GVLiD_224\Black rot\black rot497.jpg
+  data\processed\GVLiD_224\Black rot\black rot540.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot461.jpg
+  data\processed\GVLiD_224\Black rot\black rot462.jpg
+  data\processed\GVLiD_224\Black rot\black rot463.jpg
+  data\processed\GVLiD_224\Black rot\black rot464.jpg
+  data\processed\GVLiD_224\Black rot\black rot476.jpg
+  data\processed\GVLiD_224\Black rot\black rot481.jpg
+  data\processed\GVLiD_224\Black rot\black rot505.jpg
+  data\processed\GVLiD_224\Black rot\black rot542.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot465.jpg
+  data\processed\GVLiD_224\Black rot\black rot466.jpg
+  data\processed\GVLiD_224\Black rot\black rot467.jpg
+  data\processed\GVLiD_224\Black rot\black rot468.jpg
+  data\processed\GVLiD_224\Black rot\black rot482.jpg
+  data\processed\GVLiD_224\Black rot\black rot495.jpg
+  data\processed\GVLiD_224\Black rot\black rot509.jpg
+  data\processed\GVLiD_224\Black rot\black rot544.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot471.jpg
+  data\processed\GVLiD_224\Black rot\black rot472.jpg
+  data\processed\GVLiD_224\Black rot\black rot473.jpg
+  data\processed\GVLiD_224\Black rot\black rot474.jpg
+  data\processed\GVLiD_224\Black rot\black rot496.jpg
+  data\processed\GVLiD_224\Black rot\black rot499.jpg
+  data\processed\GVLiD_224\Black rot\black rot517.jpg
+  data\processed\GVLiD_224\Black rot\black rot546.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot477.jpg
+  data\processed\GVLiD_224\Black rot\black rot478.jpg
+  data\processed\GVLiD_224\Black rot\black rot479.jpg
+  data\processed\GVLiD_224\Black rot\black rot480.jpg
+  data\processed\GVLiD_224\Black rot\black rot498.jpg
+  data\processed\GVLiD_224\Black rot\black rot507.jpg
+  data\processed\GVLiD_224\Black rot\black rot519.jpg
+  data\processed\GVLiD_224\Black rot\black rot548.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot483.jpg
+  data\processed\GVLiD_224\Black rot\black rot484.jpg
+  data\processed\GVLiD_224\Black rot\black rot485.jpg
+  data\processed\GVLiD_224\Black rot\black rot486.jpg
+  data\processed\GVLiD_224\Black rot\black rot500.jpg
+  data\processed\GVLiD_224\Black rot\black rot511.jpg
+  data\processed\GVLiD_224\Black rot\black rot525.jpg
+  data\processed\GVLiD_224\Black rot\black rot550.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot487.jpg
+  data\processed\GVLiD_224\Black rot\black rot488.jpg
+  data\processed\GVLiD_224\Black rot\black rot489.jpg
+  data\processed\GVLiD_224\Black rot\black rot490.jpg
+  data\processed\GVLiD_224\Black rot\black rot506.jpg
+  data\processed\GVLiD_224\Black rot\black rot513.jpg
+  data\processed\GVLiD_224\Black rot\black rot529.jpg
+  data\processed\GVLiD_224\Black rot\black rot552.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot491.jpg
+  data\processed\GVLiD_224\Black rot\black rot492.jpg
+  data\processed\GVLiD_224\Black rot\black rot493.jpg
+  data\processed\GVLiD_224\Black rot\black rot494.jpg
+  data\processed\GVLiD_224\Black rot\black rot508.jpg
+  data\processed\GVLiD_224\Black rot\black rot515.jpg
+  data\processed\GVLiD_224\Black rot\black rot531.jpg
+  data\processed\GVLiD_224\Black rot\black rot554.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot501.jpg
+  data\processed\GVLiD_224\Black rot\black rot502.jpg
+  data\processed\GVLiD_224\Black rot\black rot503.jpg
+  data\processed\GVLiD_224\Black rot\black rot504.jpg
+  data\processed\GVLiD_224\Black rot\black rot510.jpg
+  data\processed\GVLiD_224\Black rot\black rot527.jpg
+  data\processed\GVLiD_224\Black rot\black rot533.jpg
+  data\processed\GVLiD_224\Black rot\black rot556.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot521.jpg
+  data\processed\GVLiD_224\Black rot\black rot522.jpg
+  data\processed\GVLiD_224\Black rot\black rot523.jpg
+  data\processed\GVLiD_224\Black rot\black rot524.jpg
+  data\processed\GVLiD_224\Black rot\black rot526.jpg
+  data\processed\GVLiD_224\Black rot\black rot545.jpg
+  data\processed\GVLiD_224\Black rot\black rot547.jpg
+  data\processed\GVLiD_224\Black rot\black rot558.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot579.jpg
+  data\processed\GVLiD_224\Black rot\black rot580.jpg
+  data\processed\GVLiD_224\Black rot\black rot581.jpg
+  data\processed\GVLiD_224\Black rot\black rot582.jpg
+  data\processed\GVLiD_224\Black rot\black rot583.jpg
+  data\processed\GVLiD_224\Black rot\black rot584.jpg
+  data\processed\GVLiD_224\Black rot\black rot585.jpg
+  data\processed\GVLiD_224\Black rot\black rot586.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot587.jpg
+  data\processed\GVLiD_224\Black rot\black rot588.jpg
+  data\processed\GVLiD_224\Black rot\black rot589.jpg
+  data\processed\GVLiD_224\Black rot\black rot590.jpg
+  data\processed\GVLiD_224\Black rot\black rot591.jpg
+  data\processed\GVLiD_224\Black rot\black rot592.jpg
+  data\processed\GVLiD_224\Black rot\black rot593.jpg
+  data\processed\GVLiD_224\Black rot\black rot594.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot609.jpg
+  data\processed\GVLiD_224\Black rot\black rot610.jpg
+  data\processed\GVLiD_224\Black rot\black rot611.jpg
+  data\processed\GVLiD_224\Black rot\black rot612.jpg
+  data\processed\GVLiD_224\Black rot\black rot613.jpg
+  data\processed\GVLiD_224\Black rot\black rot614.jpg
+  data\processed\GVLiD_224\Black rot\black rot615.jpg
+  data\processed\GVLiD_224\Black rot\black rot616.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot629.jpg
+  data\processed\GVLiD_224\Black rot\black rot630.jpg
+  data\processed\GVLiD_224\Black rot\black rot631.jpg
+  data\processed\GVLiD_224\Black rot\black rot632.jpg
+  data\processed\GVLiD_224\Black rot\black rot633.jpg
+  data\processed\GVLiD_224\Black rot\black rot634.jpg
+  data\processed\GVLiD_224\Black rot\black rot635.jpg
+  data\processed\GVLiD_224\Black rot\black rot636.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot649.jpg
+  data\processed\GVLiD_224\Black rot\black rot650.jpg
+  data\processed\GVLiD_224\Black rot\black rot651.jpg
+  data\processed\GVLiD_224\Black rot\black rot652.jpg
+  data\processed\GVLiD_224\Black rot\black rot669.jpg
+  data\processed\GVLiD_224\Black rot\black rot670.jpg
+  data\processed\GVLiD_224\Black rot\black rot683.jpg
+  data\processed\GVLiD_224\Black rot\black rot686.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot653.jpg
+  data\processed\GVLiD_224\Black rot\black rot654.jpg
+  data\processed\GVLiD_224\Black rot\black rot655.jpg
+  data\processed\GVLiD_224\Black rot\black rot656.jpg
+  data\processed\GVLiD_224\Black rot\black rot671.jpg
+  data\processed\GVLiD_224\Black rot\black rot672.jpg
+  data\processed\GVLiD_224\Black rot\black rot685.jpg
+  data\processed\GVLiD_224\Black rot\black rot688.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot657.jpg
+  data\processed\GVLiD_224\Black rot\black rot658.jpg
+  data\processed\GVLiD_224\Black rot\black rot659.jpg
+  data\processed\GVLiD_224\Black rot\black rot660.jpg
+  data\processed\GVLiD_224\Black rot\black rot673.jpg
+  data\processed\GVLiD_224\Black rot\black rot674.jpg
+  data\processed\GVLiD_224\Black rot\black rot687.jpg
+  data\processed\GVLiD_224\Black rot\black rot690.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot661.jpg
+  data\processed\GVLiD_224\Black rot\black rot662.jpg
+  data\processed\GVLiD_224\Black rot\black rot663.jpg
+  data\processed\GVLiD_224\Black rot\black rot664.jpg
+  data\processed\GVLiD_224\Black rot\black rot675.jpg
+  data\processed\GVLiD_224\Black rot\black rot676.jpg
+  data\processed\GVLiD_224\Black rot\black rot689.jpg
+  data\processed\GVLiD_224\Black rot\black rot692.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot665.jpg
+  data\processed\GVLiD_224\Black rot\black rot666.jpg
+  data\processed\GVLiD_224\Black rot\black rot667.jpg
+  data\processed\GVLiD_224\Black rot\black rot668.jpg
+  data\processed\GVLiD_224\Black rot\black rot681.jpg
+  data\processed\GVLiD_224\Black rot\black rot682.jpg
+  data\processed\GVLiD_224\Black rot\black rot693.jpg
+  data\processed\GVLiD_224\Black rot\black rot694.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot677.jpg
+  data\processed\GVLiD_224\Black rot\black rot678.jpg
+  data\processed\GVLiD_224\Black rot\black rot679.jpg
+  data\processed\GVLiD_224\Black rot\black rot680.jpg
+  data\processed\GVLiD_224\Black rot\black rot684.jpg
+  data\processed\GVLiD_224\Black rot\black rot691.jpg
+  data\processed\GVLiD_224\Black rot\black rot695.jpg
+  data\processed\GVLiD_224\Black rot\black rot696.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot697.jpg
+  data\processed\GVLiD_224\Black rot\black rot698.jpg
+  data\processed\GVLiD_224\Black rot\black rot699.jpg
+  data\processed\GVLiD_224\Black rot\black rot700.jpg
+  data\processed\GVLiD_224\Black rot\black rot713.jpg
+  data\processed\GVLiD_224\Black rot\black rot714.jpg
+  data\processed\GVLiD_224\Black rot\black rot721.jpg
+  data\processed\GVLiD_224\Black rot\black rot722.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot701.jpg
+  data\processed\GVLiD_224\Black rot\black rot702.jpg
+  data\processed\GVLiD_224\Black rot\black rot703.jpg
+  data\processed\GVLiD_224\Black rot\black rot704.jpg
+  data\processed\GVLiD_224\Black rot\black rot715.jpg
+  data\processed\GVLiD_224\Black rot\black rot716.jpg
+  data\processed\GVLiD_224\Black rot\black rot727.jpg
+  data\processed\GVLiD_224\Black rot\black rot730.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot705.jpg
+  data\processed\GVLiD_224\Black rot\black rot706.jpg
+  data\processed\GVLiD_224\Black rot\black rot707.jpg
+  data\processed\GVLiD_224\Black rot\black rot708.jpg
+  data\processed\GVLiD_224\Black rot\black rot717.jpg
+  data\processed\GVLiD_224\Black rot\black rot718.jpg
+  data\processed\GVLiD_224\Black rot\black rot729.jpg
+  data\processed\GVLiD_224\Black rot\black rot732.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot709.jpg
+  data\processed\GVLiD_224\Black rot\black rot710.jpg
+  data\processed\GVLiD_224\Black rot\black rot711.jpg
+  data\processed\GVLiD_224\Black rot\black rot712.jpg
+  data\processed\GVLiD_224\Black rot\black rot719.jpg
+  data\processed\GVLiD_224\Black rot\black rot720.jpg
+  data\processed\GVLiD_224\Black rot\black rot731.jpg
+  data\processed\GVLiD_224\Black rot\black rot734.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot723.jpg
+  data\processed\GVLiD_224\Black rot\black rot724.jpg
+  data\processed\GVLiD_224\Black rot\black rot725.jpg
+  data\processed\GVLiD_224\Black rot\black rot726.jpg
+  data\processed\GVLiD_224\Black rot\black rot728.jpg
+  data\processed\GVLiD_224\Black rot\black rot733.jpg
+  data\processed\GVLiD_224\Black rot\black rot735.jpg
+  data\processed\GVLiD_224\Black rot\black rot736.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot737.jpg
+  data\processed\GVLiD_224\Black rot\black rot738.jpg
+  data\processed\GVLiD_224\Black rot\black rot739.jpg
+  data\processed\GVLiD_224\Black rot\black rot740.jpg
+  data\processed\GVLiD_224\Black rot\black rot741.jpg
+  data\processed\GVLiD_224\Black rot\black rot742.jpg
+  data\processed\GVLiD_224\Black rot\black rot743.jpg
+  data\processed\GVLiD_224\Black rot\black rot744.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot745.jpg
+  data\processed\GVLiD_224\Black rot\black rot746.jpg
+  data\processed\GVLiD_224\Black rot\black rot747.jpg
+  data\processed\GVLiD_224\Black rot\black rot748.jpg
+  data\processed\GVLiD_224\Black rot\black rot749.jpg
+  data\processed\GVLiD_224\Black rot\black rot750.jpg
+  data\processed\GVLiD_224\Black rot\black rot751.jpg
+  data\processed\GVLiD_224\Black rot\black rot752.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot753.jpg
+  data\processed\GVLiD_224\Black rot\black rot754.jpg
+  data\processed\GVLiD_224\Black rot\black rot755.jpg
+  data\processed\GVLiD_224\Black rot\black rot756.jpg
+  data\processed\GVLiD_224\Black rot\black rot757.jpg
+  data\processed\GVLiD_224\Black rot\black rot758.jpg
+  data\processed\GVLiD_224\Black rot\black rot763.jpg
+  data\processed\GVLiD_224\Black rot\black rot766.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot759.jpg
+  data\processed\GVLiD_224\Black rot\black rot760.jpg
+  data\processed\GVLiD_224\Black rot\black rot761.jpg
+  data\processed\GVLiD_224\Black rot\black rot762.jpg
+  data\processed\GVLiD_224\Black rot\black rot764.jpg
+  data\processed\GVLiD_224\Black rot\black rot765.jpg
+  data\processed\GVLiD_224\Black rot\black rot767.jpg
+  data\processed\GVLiD_224\Black rot\black rot768.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot769.jpg
+  data\processed\GVLiD_224\Black rot\black rot770.jpg
+  data\processed\GVLiD_224\Black rot\black rot771.jpg
+  data\processed\GVLiD_224\Black rot\black rot772.jpg
+  data\processed\GVLiD_224\Black rot\black rot773.jpg
+  data\processed\GVLiD_224\Black rot\black rot774.jpg
+  data\processed\GVLiD_224\Black rot\black rot775.jpg
+  data\processed\GVLiD_224\Black rot\black rot776.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot777.jpg
+  data\processed\GVLiD_224\Black rot\black rot778.jpg
+  data\processed\GVLiD_224\Black rot\black rot779.jpg
+  data\processed\GVLiD_224\Black rot\black rot780.jpg
+  data\processed\GVLiD_224\Black rot\black rot781.jpg
+  data\processed\GVLiD_224\Black rot\black rot782.jpg
+  data\processed\GVLiD_224\Black rot\black rot783.jpg
+  data\processed\GVLiD_224\Black rot\black rot784.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot785.jpg
+  data\processed\GVLiD_224\Black rot\black rot786.jpg
+  data\processed\GVLiD_224\Black rot\black rot787.jpg
+  data\processed\GVLiD_224\Black rot\black rot788.jpg
+  data\processed\GVLiD_224\Black rot\black rot789.jpg
+  data\processed\GVLiD_224\Black rot\black rot790.jpg
+  data\processed\GVLiD_224\Black rot\black rot791.jpg
+  data\processed\GVLiD_224\Black rot\black rot792.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot793.jpg
+  data\processed\GVLiD_224\Black rot\black rot794.jpg
+  data\processed\GVLiD_224\Black rot\black rot795.jpg
+  data\processed\GVLiD_224\Black rot\black rot796.jpg
+  data\processed\GVLiD_224\Black rot\black rot797.jpg
+  data\processed\GVLiD_224\Black rot\black rot798.jpg
+  data\processed\GVLiD_224\Black rot\black rot799.jpg
+  data\processed\GVLiD_224\Black rot\black rot800.jpg
+  data\processed\GVLiD_224\esca\esca002.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\Black rot\black rot801.jpg
+  data\processed\GVLiD_224\Black rot\black rot802.jpg
+  data\processed\GVLiD_224\Black rot\black rot803.jpg
+  data\processed\GVLiD_224\Black rot\black rot804.jpg
+  data\processed\GVLiD_224\Black rot\black rot805.jpg
+  data\processed\GVLiD_224\Black rot\black rot806.jpg
+  data\processed\GVLiD_224\Black rot\black rot807.jpg
+  data\processed\GVLiD_224\Black rot\black rot808.jpg
+  data\processed\GVLiD_224\esca\esca248.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy638.jpg
+  data\processed\GVLiD_224\healthy\healthy639.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy641.jpg
+  data\processed\GVLiD_224\healthy\healthy642.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy647.jpg
+  data\processed\GVLiD_224\healthy\healthy648.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy649.jpg
+  data\processed\GVLiD_224\healthy\healthy650.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy654.jpg
+  data\processed\GVLiD_224\healthy\healthy655.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy656.jpg
+  data\processed\GVLiD_224\healthy\healthy657.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy658.jpg
+  data\processed\GVLiD_224\healthy\healthy659.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy661.jpg
+  data\processed\GVLiD_224\healthy\healthy662.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy663.jpg
+  data\processed\GVLiD_224\healthy\healthy664.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy670.jpg
+  data\processed\GVLiD_224\healthy\healthy671.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy673.jpg
+  data\processed\GVLiD_224\healthy\healthy674.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy675.jpg
+  data\processed\GVLiD_224\healthy\healthy676.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy678.jpg
+  data\processed\GVLiD_224\healthy\healthy679.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy687.jpg
+  data\processed\GVLiD_224\healthy\healthy688.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy693.jpg
+  data\processed\GVLiD_224\healthy\healthy694.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\healthy\healthy703.jpg
+  data\processed\GVLiD_224\healthy\healthy704.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight001.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight002.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight003.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight004.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight005.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight006.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight007.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight008.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight009.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight010.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight011.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight012.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight013.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight014.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight015.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight016.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight017.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight018.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight019.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight020.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight021.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight022.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight023.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight024.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight025.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight026.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight027.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight028.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight029.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight030.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight031.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight032.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight033.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight034.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight035.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight036.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight037.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight038.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight039.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight040.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight041.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight042.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight043.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight044.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight045.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight046.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight047.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight048.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight049.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight050.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight051.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight052.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight053.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight054.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight055.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight056.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight057.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight058.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight059.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight060.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight061.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight062.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight063.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight064.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight065.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight066.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight067.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight068.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight069.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight070.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight071.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight072.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight073.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight074.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight075.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight076.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight077.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight078.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight079.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight080.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight081.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight082.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight083.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight084.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight085.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight086.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight087.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight088.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight089.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight090.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight091.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight092.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight093.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight094.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight095.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight096.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight097.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight098.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight099.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight100.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight101.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight102.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight103.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight104.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight105.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight106.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight107.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight108.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight109.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight110.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight111.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight112.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight113.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight114.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight115.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight116.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight117.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight118.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight119.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight120.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight121.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight122.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight123.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight124.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight125.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight126.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight127.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight128.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight129.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight130.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight131.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight132.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight133.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight134.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight135.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight136.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight137.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight138.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight139.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight140.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight141.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight142.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight143.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight144.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight145.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight146.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight147.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight148.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight149.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight150.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight151.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight152.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight153.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight154.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight155.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight156.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight157.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight158.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight159.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight160.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight161.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight162.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight163.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight164.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight165.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight166.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight167.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight168.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight169.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight170.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight171.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight172.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight173.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight174.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight175.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight176.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight177.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight178.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight179.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight180.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight181.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight182.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight183.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight184.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight185.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight186.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight187.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight188.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight189.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight190.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight191.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight192.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight193.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight194.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight195.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight196.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight197.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight198.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight199.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight200.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight201.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight202.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight203.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight204.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight205.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight206.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight207.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight208.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight209.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight210.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight211.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight212.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight213.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight214.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight215.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight216.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight217.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight218.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight219.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight220.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight221.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight222.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight223.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight224.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight225.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight226.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight227.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight228.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight229.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight230.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight231.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight232.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight233.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight234.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight235.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight236.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight237.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight238.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight239.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight240.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight241.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight242.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight243.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight244.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight245.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight246.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight247.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight248.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight249.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight250.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight251.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight252.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight253.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight254.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight255.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight256.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight257.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight258.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight259.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight260.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight261.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight262.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight263.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight264.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight265.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight266.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight267.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight268.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight269.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight270.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight271.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight272.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight273.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight274.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight275.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight276.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight277.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight278.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight279.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight280.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight281.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight282.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight283.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight284.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight285.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight286.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight287.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight288.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight289.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight290.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight291.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight292.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight293.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight294.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight295.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight296.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight297.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight298.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight299.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight300.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight301.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight302.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight303.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight304.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight305.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight306.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight307.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight308.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight309.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight310.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight311.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight312.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight313.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight314.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight315.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight316.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight317.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight318.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight319.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight320.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight321.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight322.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight323.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight324.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight325.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight326.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight327.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight328.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight329.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight330.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight331.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight332.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight333.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight334.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight335.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight336.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight337.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight338.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight339.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight340.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight341.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight342.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight343.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight344.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight345.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight346.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight347.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight348.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight349.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight350.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight351.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight352.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight353.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight354.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight355.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight356.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight357.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight358.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight359.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight360.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight361.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight362.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight363.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight364.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight365.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight366.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight367.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight368.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight369.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight370.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight371.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight372.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight373.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight374.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight375.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight376.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight377.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight378.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight379.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight380.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight381.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight382.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight383.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight384.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight385.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight386.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight387.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight388.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight389.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight390.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight391.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight392.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight393.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight394.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight395.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight396.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight397.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight398.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight399.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight400.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight401.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight402.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight403.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight404.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight405.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight406.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight407.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight408.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight409.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight410.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight411.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight412.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight413.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight414.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight415.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight416.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight417.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight418.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight419.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight420.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight421.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight422.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight423.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight424.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight425.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight426.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight427.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight428.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight429.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight430.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight431.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight432.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight433.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight434.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight435.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight436.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight437.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight438.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight439.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight440.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight441.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight442.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight443.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight444.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight445.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight446.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight447.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight448.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight449.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight450.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight451.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight452.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight453.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight454.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight455.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight456.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight457.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight458.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight459.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight460.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight461.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight462.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight463.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight464.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight465.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight466.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight467.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight468.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight469.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight470.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight471.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight472.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight473.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight474.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight475.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight476.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight477.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight478.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight479.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight480.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight481.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight482.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight483.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight484.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight485.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight486.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight487.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight488.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight489.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight490.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight491.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight492.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight493.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight494.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight495.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight496.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight497.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight498.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight499.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight500.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight501.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight502.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight503.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight504.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight505.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight506.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight507.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight508.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight509.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight510.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight511.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight512.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight513.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight514.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight515.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight516.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight517.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight518.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight519.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight520.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight521.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight522.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight523.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight524.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight525.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight526.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight527.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight528.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight529.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight530.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight531.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight532.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight533.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight534.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight535.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight536.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight537.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight538.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight539.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight540.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight541.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight542.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight543.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight544.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight545.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight546.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight547.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight548.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight549.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight550.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight551.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight552.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight553.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight554.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight555.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight556.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight557.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight558.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight559.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight560.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight561.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight562.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight563.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight564.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight565.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight566.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight567.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight568.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight569.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight570.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight571.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight572.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight573.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight574.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight575.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight576.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight577.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight578.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight579.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight580.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight581.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight582.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight583.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight584.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight585.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight586.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight587.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight588.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight589.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight590.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight591.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight592.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight593.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight594.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight595.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight596.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight597.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight598.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight599.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight600.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight601.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight602.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight603.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight604.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight605.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight606.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight607.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight608.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight609.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight610.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight611.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight612.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight613.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight614.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight615.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight616.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight617.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight618.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight619.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight620.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight621.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight622.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight623.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight624.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight625.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight626.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight627.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight628.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight629.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight630.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight631.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight632.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight633.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight634.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight635.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight636.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight637.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight638.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight639.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight640.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight641.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight642.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight643.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight644.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight645.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight646.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight647.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight648.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight649.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight650.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight651.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight652.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight653.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight654.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight655.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight656.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight657.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight658.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight659.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight660.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight661.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight662.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight663.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight664.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight665.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight666.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight667.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight668.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight669.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight670.jpg
+
+Duplicate group:
+  data\processed\GVLiD_224\leaf blight\leaf blight671.jpg
+  data\processed\GVLiD_224\leaf blight\leaf blight672.jpg
+
+SUMMARY
+--------------------------------------------------
+Total duplicate groups: 446
+Total files involved: 1514
+Black rot: 810 files involved
+esca: 18 files involved
+healthy: 32 files involved
+leaf blight: 672 files involved
