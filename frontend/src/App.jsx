@@ -3,11 +3,10 @@ import { useEffect, useMemo, useState } from 'react'
 
 import './App.css'
 
-import GISMap from './components/GISMap'
+import HeatmapMap from './components/HeatmapMap'
 import Sidebar from './components/Sidebar'
 import Header from './components/Header'
 import MetricCard from './components/MetricCard'
-import RiskLegend from './components/RiskLegend'
 import RiskAnalytics from './components/RiskAnalytics'
 import RiskChart from './components/RiskChart'
 import PredictionOverview from './components/PredictionOverview'
@@ -94,21 +93,30 @@ function App() {
             <div className="section-heading">
               <div>
                 <h2>Geospatial Risk Overview</h2>
-                <p>Farm monitoring and crop stress visualization</p>
+                <p>Pixel-level crop risk visualization</p>
               </div>
 
               <span className="demo-label">SAMPLE MAP</span>
             </div>
 
-            <GISMap
+            <div className="risk-filter-controls">
+              <span>Filter risk:</span>
+
+              {['All', 'Low', 'Medium', 'High'].map((risk) => (
+                <button
+                  key={risk}
+                  className={riskFilter === risk ? 'active' : ''}
+                  onClick={() => setRiskFilter(risk)}
+                >
+                  {risk}
+                </button>
+              ))}
+            </div>
+
+            <HeatmapMap
               riskFilter={riskFilter}
-              onRiskFilterChange={setRiskFilter}
-              zones={filteredZones}
-              selectedZone={selectedZone}
               onZoneSelect={setSelectedZone}
             />
-
-            <RiskLegend />
           </section>
 
           <RiskAnalytics zones={filteredZones} />
@@ -127,6 +135,7 @@ function App() {
 }
 
 export default App
+
 
 
 
