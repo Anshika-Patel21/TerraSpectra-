@@ -1,64 +1,54 @@
 
+import { farmAnalytics } from '../data/analyticsData'
+
 const riskColors = {
   Low: '#4ade80',
   Medium: '#facc15',
   High: '#fb7185',
 }
 
-function RiskChart({ zones }) {
-  const categories = ['Low', 'Medium', 'High'].map((risk) => {
-    const count = zones.features.filter(
-      (feature) => feature.properties.risk === risk
-    ).length
-
-    return {
-      label: risk,
-      zones: count,
-      color: riskColors[risk],
-    }
-  })
-
-  const totalZones = categories.reduce(
-    (total, item) => total + item.zones,
-    0
-  )
+function RiskChart() {
+  const categories = farmAnalytics.riskDistribution
 
   return (
     <section className="chart-section">
-      <h2>Risk Distribution</h2>
+      <h2>Risk Distribution by Area</h2>
 
-      <p>Number of visible zones by risk category</p>
+      <p>Share of total monitored acreage in each risk category</p>
 
       <div className="chart-container">
-        {categories.map((item) => (
-          <div className="chart-row" key={item.label}>
-            <span>{item.label}</span>
+        {categories.map((item) => {
+          const percentage = (
+            (item.area / farmAnalytics.totalArea) * 100
+          ).toFixed(1)
 
-            <div className="bar-background">
-              <div
-                className="bar-fill"
-                style={{
-                  width: totalZones
-                    ? `${(item.zones / totalZones) * 100}%`
-                    : '0%',
-                  backgroundColor: item.color,
-                }}
-              ></div>
+          return (
+            <div className="chart-row" key={item.risk}>
+              <span>{item.risk}</span>
+
+              <div className="bar-background">
+                <div
+                  className="bar-fill"
+                  style={{
+                    width: `${percentage}%`,
+                    backgroundColor: riskColors[item.risk],
+                  }}
+                />
+              </div>
+
+              <strong>{percentage}%</strong>
             </div>
-
-            <strong>{item.zones}</strong>
-          </div>
-        ))}
-
-        {totalZones === 0 && (
-          <p className="no-zone-selected">
-            No zones available for this filter.
-          </p>
-        )}
+          )
+        })}
       </div>
+
+      <p className="forecast-note">
+        Acreage distribution is based on synthetic demo data.
+      </p>
     </section>
   )
 }
 
 export default RiskChart
+
 

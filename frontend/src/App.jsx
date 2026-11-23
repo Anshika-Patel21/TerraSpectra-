@@ -1,7 +1,8 @@
 
-import { useEffect, useMemo, useState } from 'react'
-
 import './App.css'
+import { useEffect, useMemo, useState } from 'react'
+import FarmSummary from './components/FarmSummary'
+import ChemicalAnomalies from './components/ChemicalAnomalies'
 
 import HeatmapMap from './components/HeatmapMap'
 import Sidebar from './components/Sidebar'
@@ -88,7 +89,7 @@ function App() {
               description="Sample monitoring zones"
             />
           </div>
-
+<FarmSummary />
           <section className="map-section">
             <div className="section-heading">
               <div>
@@ -119,10 +120,10 @@ function App() {
             />
           </section>
 
-          <RiskAnalytics zones={filteredZones} />
+          <RiskAnalytics />
 
-          <RiskChart zones={filteredZones} />
-
+          <RiskChart />
+          <ChemicalAnomalies />
           <PredictionOverview zones={filteredZones} />
 
           <ForecastChart zones={filteredZones} />

@@ -1,42 +1,21 @@
 
-const riskCategories = [
-  { label: 'Low', className: 'risk-low' },
-  { label: 'Medium', className: 'risk-medium' },
-  { label: 'High', className: 'risk-high' },
-]
+import { farmAnalytics } from '../data/analyticsData'
 
-function RiskAnalytics({ zones }) {
-  const analytics = riskCategories.map((category) => {
-    const matchingZones = zones.features.filter(
-      (feature) => feature.properties.risk === category.label
-    )
-
-    const totalArea = matchingZones.reduce(
-      (total, feature) => total + feature.properties.area,
-      0
-    )
-
-    return {
-      ...category,
-      zones: matchingZones.length,
-      area: totalArea,
-    }
-  })
-
+function RiskAnalytics() {
   return (
     <section className="analytics-section">
       <h2>Crop Risk Analytics</h2>
 
       <p className="analytics-subtitle">
-        Distribution based on the selected risk filter
+        Farm-wide distribution by risk category
       </p>
 
       <div className="analytics-grid">
-        {analytics.map((item) => (
-          <div className="analytics-card" key={item.label}>
-            <span className={`risk-dot ${item.className}`}></span>
+        {farmAnalytics.riskDistribution.map((item) => (
+          <div className="analytics-card" key={item.risk}>
+            <span className={`risk-dot risk-${item.risk.toLowerCase()}`} />
 
-            <p>{item.label} Risk Zones</p>
+            <p>{item.risk} Risk Zones</p>
 
             <h3>{item.zones}</h3>
 
@@ -44,9 +23,14 @@ function RiskAnalytics({ zones }) {
           </div>
         ))}
       </div>
+
+      <p className="forecast-note">
+        Risk distribution is based on synthetic demo data.
+      </p>
     </section>
   )
 }
 
 export default RiskAnalytics
+
 

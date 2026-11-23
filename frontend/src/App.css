@@ -828,3 +828,172 @@
   border-color: #60a5fa;
   color: #ffffff;
 }
+
+/* Week 3 - Farm Area Summary */
+
+.farm-summary-section {
+  margin-top: 28px;
+}
+
+.farm-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.farm-summary-card {
+  background: #151d2b;
+  border: 1px solid #263449;
+  border-radius: 12px;
+  padding: 22px;
+}
+
+.farm-summary-card p {
+  color: #9caec4;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+.farm-summary-card h3 {
+  font-size: 27px;
+  font-weight: 600;
+}
+
+.farm-summary-card h3 span {
+  font-size: 14px;
+  font-weight: 400;
+  color: #9caec4;
+}
+
+.summary-total {
+  color: #e2e8f0;
+}
+
+.summary-healthy {
+  color: #4ade80;
+}
+
+.summary-stressed {
+  color: #facc15;
+}
+
+@media (max-width: 768px) {
+  .farm-summary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Week 3 - Chemical Anomalies Panel */
+
+.anomaly-section {
+  margin-top: 28px;
+}
+
+.anomaly-summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin: 18px 0;
+}
+
+.anomaly-summary-card {
+  background: #151d2b;
+  border: 1px solid #263449;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.anomaly-summary-card p {
+  color: #9caec4;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.anomaly-summary-card h3 {
+  font-size: 27px;
+  color: #e2e8f0;
+}
+
+.anomaly-list {
+  display: grid;
+  gap: 14px;
+}
+
+.anomaly-card {
+  background: #151d2b;
+  border: 1px solid #263449;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.anomaly-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.anomaly-card-header h3 {
+  font-size: 15px;
+  color: #e2e8f0;
+}
+
+.anomaly-card > p {
+  color: #9caec4;
+  font-size: 13px;
+  margin-bottom: 14px;
+}
+
+.anomaly-high,
+.anomaly-medium,
+.anomaly-low {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+
+.anomaly-high {
+  color: #fb7185;
+  background: rgba(251, 113, 133, 0.12);
+}
+
+.anomaly-medium {
+  color: #facc15;
+  background: rgba(250, 204, 21, 0.12);
+}
+
+.anomaly-low {
+  color: #4ade80;
+  background: rgba(74, 222, 128, 0.12);
+}
+
+.anomaly-zones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.anomaly-zones span {
+  color: #9caec4;
+}
+
+.anomaly-zones strong {
+  color: #e2e8f0;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .anomaly-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .anomaly-card-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
