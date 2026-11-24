@@ -11,7 +11,25 @@
 /* Sidebar */
 .sidebar {
   width: 240px;
-  min-height: 100vh;
+  min-height: 100vh;/* Light Theme - Sidebar */
+.dashboard.light .sidebar {
+  background-color: #ffffff;
+  border-right-color: #e2e8f0;
+}
+
+.dashboard.light .sidebar h2 {
+  color: #16a34a;
+}
+
+.dashboard.light .sidebar-link {
+  color: #475569;
+}
+
+.dashboard.light .sidebar-link:hover,
+.dashboard.light .sidebar-link.active {
+  background-color: #dcfce7;
+  color: #15803d;
+}
   background-color: #111c30;
   padding: 28px 20px;
   border-right: 1px solid #263449;
@@ -30,17 +48,27 @@
   gap: 12px;
 }
 
-.sidebar nav p {
+
+.sidebar-link {
+  width: 100%;
   padding: 12px;
   color: #cbd5e1;
+  background: transparent;
+  border: none;
   border-radius: 8px;
+  text-align: left;
+  font: inherit;
+  font-size: 15px;
   cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-.sidebar nav p:hover {
+.sidebar-link:hover,
+.sidebar-link.active {
   background-color: #263449;
   color: #4ade80;
 }
+
 
 /* Main area */
 .main-area {
@@ -162,7 +190,11 @@
     flex-direction: column;
   }
 
-  .sidebar {
+  .sidebar {/* Light Theme */
+.dashboard.light {
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
     width: 100%;
     min-height: auto;
   }
@@ -996,4 +1028,404 @@
     align-items: flex-start;
     flex-direction: column;
   }
+}
+
+/* Settings Page */
+
+.settings-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 28px;
+}
+
+.settings-card {
+  background: #17263c;
+  border: 1px solid #263a52;
+  border-radius: 14px;
+  padding: 24px;
+  transition: border-color 0.2s ease;
+}
+
+.settings-card:hover {
+  border-color: #4ade80;
+}
+
+.settings-card h2 {
+  color: #f1f5f9;
+  font-size: 19px;
+  margin-bottom: 8px;
+}
+
+.settings-description {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.settings-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 17px 0;
+  border-top: 1px solid #293a50;
+}
+
+.settings-row h3 {
+  color: #e2e8f0;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.settings-row p {
+  color: #94a3b8;
+  font-size: 13px;
+  margin: 0;
+}
+
+.settings-row > span:not(.settings-status) {
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
+.settings-status {
+  color: #4ade80;
+  background: rgba(74, 222, 128, 0.1);
+  border: 1px solid rgba(74, 222, 128, 0.25);
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.settings-row select {
+  background: #111c30;
+  color: #e2e8f0;
+  border: 1px solid #34465e;
+  border-radius: 8px;
+  padding: 9px 12px;
+  cursor: pointer;
+}
+
+.dashboard.light .settings-row select {
+  background: #ffffff;
+  color: #1e293b;
+  border-color: #cbd5e1;
+}
+
+.settings-button {
+  background: rgba(74, 222, 128, 0.1);
+  color: #4ade80;
+  border: 1px solid #4ade80;
+  border-radius: 8px;
+  padding: 9px 14px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.settings-button:hover {
+  background: rgba(74, 222, 128, 0.2);
+}
+
+@media (max-width: 900px) {
+  .settings-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 500px) {
+  .settings-card {
+    padding: 17px;
+  }
+
+  .settings-row {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+/* Light Theme - Main Content */
+.dashboard.light .content {
+  background-color: #f1f5f9;
+}
+
+.dashboard.light .content h1 {
+  color: #1e293b;
+}
+
+.dashboard.light .content p {
+  color: #64748b;
+}
+/* Light Theme - Settings Cards */
+.dashboard.light .settings-card {
+  background: #ffffff;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .settings-card:hover {
+  border-color: #16a34a;
+}
+
+.dashboard.light .settings-card h2,
+.dashboard.light .settings-row h3 {
+  color: #1e293b;
+}
+
+.dashboard.light .settings-description,
+.dashboard.light .settings-row p {
+  color: #64748b;
+}
+
+.dashboard.light .settings-row {
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .settings-row > span:not(.settings-status) {
+  color: #334155;
+}
+/* Light Theme - Data Labels Toggle */
+.dashboard.light .settings-toggle {
+  color: #334155;
+}
+
+.dashboard.light .settings-toggle span {
+  color: #334155;
+}
+/* Light Theme - Sidebar */
+.dashboard.light .sidebar {
+  background-color: #ffffff;
+  border-right: 1px solid #e2e8f0;
+}
+
+.dashboard.light .sidebar h2 {
+  color: #16a34a;
+}
+
+.dashboard.light .sidebar-link {
+  color: #475569;
+}
+
+.dashboard.light .sidebar-link:hover,
+.dashboard.light .sidebar-link.active {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+/* Light Theme - Metric Cards */
+.dashboard.light .metric-card {
+  background-color: #ffffff;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .metric-card p,
+.dashboard.light .metric-card small {
+  color: #64748b;
+}
+
+.dashboard.light .metric-card h2 {
+  color: #16a34a;
+}
+
+.dashboard.light .metric-card h2 span {
+  color: #64748b;
+}
+/* Light Theme - Prediction Overview */
+.dashboard.light .prediction-section {
+  background: #ffffff;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .prediction-heading h2 {
+  color: #1e293b;
+}
+
+.dashboard.light .prediction-heading p {
+  color: #64748b;
+}
+
+.dashboard.light .prediction-card {
+  background: #f8fafc;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .prediction-card p {
+  color: #64748b;
+}
+
+.dashboard.light .prediction-card h3 {
+  color: #16a34a;
+}
+
+.dashboard.light .prediction-card span {
+  color: #64748b;
+}
+/* Light Theme - Forecast Chart */
+.dashboard.light .forecast-section {
+  background: #ffffff;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .forecast-section h2 {
+  color: #1e293b;
+}
+
+.dashboard.light .forecast-section > p {
+  color: #64748b;
+}
+
+.dashboard.light .forecast-value {
+  color: #16a34a;
+}
+
+.dashboard.light .forecast-bar-track {
+  background: #e2e8f0;
+}
+
+.dashboard.light .forecast-item > span {
+  color: #475569;
+}
+
+.dashboard.light .forecast-note {
+  color: #64748b;
+}
+/* Light Theme - Farm Area Summary */
+.dashboard.light .farm-summary-section,
+.dashboard.light .analytics-section,
+.dashboard.light .chart-section {
+  background: #ffffff;
+  border-color: #e2e8f0;
+}
+
+/* Farm Summary */
+.dashboard.light .farm-summary-section h2,
+.dashboard.light .analytics-section h2,
+.dashboard.light .chart-section h2 {
+  color: #1e293b;
+}
+
+.dashboard.light .farm-summary-section .section-heading p,
+.dashboard.light .analytics-subtitle,
+.dashboard.light .chart-section > p {
+  color: #64748b;
+}
+
+.dashboard.light .farm-summary-card,
+.dashboard.light .analytics-card {
+  background: #f8fafc;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .farm-summary-card p,
+.dashboard.light .analytics-card p {
+  color: #475569;
+}
+
+.dashboard.light .farm-summary-card h3,
+.dashboard.light .analytics-card h3 {
+  color: #16a34a;
+}
+
+.dashboard.light .farm-summary-card h3 span,
+.dashboard.light .analytics-card > span:not(.risk-dot) {
+  color: #64748b;
+}
+
+/* Risk Distribution Chart */
+.dashboard.light .chart-row > span,
+.dashboard.light .chart-row strong {
+  color: #334155;
+}
+
+.dashboard.light .bar-background {
+  background: #e2e8f0;
+}
+
+.dashboard.light .forecast-note {
+  color: #64748b;
+}
+/* Light Theme - Zone-wise Prediction */
+.dashboard.light .zone-prediction-section {
+  background: #ffffff;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .zone-prediction-section h2 {
+  color: #1e293b;
+}
+
+.dashboard.light .zone-prediction-section .no-zone-selected {
+  color: #64748b;
+}
+
+.dashboard.light .zone-prediction-card {
+  background: #f8fafc;
+  border-color: #e2e8f0;
+}
+/* Light Theme - Geospatial Risk Overview */
+.dashboard.light .map-section {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+}
+
+.dashboard.light .map-section .section-heading h2 {
+  color: #1e293b;
+}
+
+.dashboard.light .map-section .section-heading p {
+  color: #64748b;
+}
+
+.dashboard.light .map-section .risk-filter-controls > span {
+  color: #334155;
+}
+/* Light Theme - Spectral Anomaly Indicators */
+.dashboard.light .anomaly-section {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+}
+
+.dashboard.light .anomaly-section .section-heading h2 {
+  color: #1e293b;
+}
+
+.dashboard.light .anomaly-section .section-heading p {
+  color: #64748b;
+}
+
+.dashboard.light .anomaly-summary-card,
+.dashboard.light .anomaly-card {
+  background: #f8fafc;
+  border-color: #e2e8f0;
+}
+
+.dashboard.light .anomaly-summary-card p,
+.dashboard.light .anomaly-card > p {
+  color: #64748b;
+}
+
+.dashboard.light .anomaly-summary-card h3,
+.dashboard.light .anomaly-card-header h3 {
+  color: #1e293b;
+}
+
+.dashboard.light .anomaly-zones span {
+  color: #64748b;
+}
+
+.dashboard.light .anomaly-zones strong {
+  color: #334155;
+}
+
+.dashboard.light .anomaly-section .forecast-note {
+  color: #64748b;
+}
+/* Light Theme - Risk Distribution by Area */
+.dashboard.light .chart-section .chart-container {
+  background: #f8fafc;
+  border-color: #e2e8f0;
+}
+
+/* Light Theme - Three-Week Disease Risk Forecast */
+.dashboard.light .forecast-section .forecast-chart {
+  background: #f8fafc;
+  border-color: #e2e8f0;
 }

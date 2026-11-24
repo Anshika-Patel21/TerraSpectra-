@@ -92,3 +92,28 @@
 .legend-high {
   background: #fb7185;
 }
+/* Light Theme - Geospatial Risk Map */
+.dashboard.light .heatmap-heading h3 {
+  color: #1e293b;
+}
+
+.dashboard.light .heatmap-heading p {
+  color: #64748b;
+}
+
+.dashboard.light .heatmap-status {
+  color: #a16207;
+  border-color: #eab308;
+  background: #fefce8;
+}
+
+.dashboard.light .heatmap-tooltip {
+  background: #ffffff;
+  color: #1e293b;
+  border-color: #cbd5e1;
+  box-shadow: 0 4px 14px #0002;
+}
+
+.dashboard.light .heatmap-legend {
+  color: #475569;
+}
