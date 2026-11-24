@@ -1,0 +1,19 @@
+hash,split,label,filename,vineyard_id,image_path
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,train,black rot,black rot795.jpg,Vineyard_16,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot795.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,train,black rot,black rot799.jpg,Vineyard_6,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot799.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,train,black rot,black rot800.jpg,Vineyard_12,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot800.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,train,esca,esca002.jpg,Vineyard_11,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca002.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,validation,black rot,black rot793.jpg,Vineyard_20,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot793.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,validation,black rot,black rot794.jpg,Vineyard_18,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot794.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,validation,black rot,black rot797.jpg,Vineyard_4,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot797.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,validation,black rot,black rot798.jpg,Vineyard_20,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot798.jpg
+cd3ebe2223ee68ab0c6d3a65f05b3c0b7e554e529caaaa3b35ef74ba21de7fbf,test,black rot,black rot796.jpg,Vineyard_17,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot796.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot801.jpg,Vineyard_28,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot801.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot803.jpg,Vineyard_10,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot803.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot804.jpg,Vineyard_11,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot804.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot805.jpg,Vineyard_24,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot805.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot806.jpg,Vineyard_21,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot806.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot807.jpg,Vineyard_14,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot807.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,black rot,black rot808.jpg,Vineyard_14,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot808.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,train,esca,esca248.jpg,Vineyard_11,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca248.jpg
+f2d34219c7654bcced5dfa66b7c6a743f98e0cdc484addca1154ed4153f21591,test,black rot,black rot802.jpg,Vineyard_7,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot802.jpg
