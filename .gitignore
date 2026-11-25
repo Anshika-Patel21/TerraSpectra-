@@ -237,6 +237,29 @@ venv/
 sample_leaf.jpeg
 backend/app/main_backup.py
 
+# TerraSpectra - Hyperspectral Data
+data/raw/*
+data/processed/*
+
+# Allow sample datasets
+!data/sample/
+!data/sample/.gitkeep
+
+# ML Model Weights
+*.pth
+*.pt
+*.onnx
+
+# Local experiment outputs
+outputs/
+checkpoints/
+runs/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
 
 # TerraSpectra - dataset files
 data/raw/
