@@ -234,3 +234,5 @@ venv/
 
 # OS
 .DS_Store
+sample_leaf.jpeg
+backend/app/main_backup.py

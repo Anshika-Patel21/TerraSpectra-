@@ -4,15 +4,17 @@ import tempfile
 from pathlib import Path
 from fastapi import FastAPI, UploadFile, File, HTTPException
 
-from app.services.prediction_service import generate_mock_prediction
-from app.schemas.prediction import PredictionRequest
+from app.services.model_adapter import RealModelAdapter
 from app.services.raster_service import inspect_raster
+
 
 app = FastAPI(
     title="TerraSpectra API",
-    description="Backend service for hyperspectral crop stress detection",
+    description="Backend service for grapevine disease detection",
     version="1.0.0"
 )
+
+model_adapter = RealModelAdapter()
 
 
 @app.get("/")
@@ -29,23 +31,59 @@ def health_check():
         "status": "healthy",
         "project": "TerraSpectra"
     }
-#@app.post("/predict")
-#def predict(request: PredictionRequest):
 
- #   return {
-  #      "message": "Prediction request received successfully",
-   #     "farm_id": request.farm_id,
-    #    "file_name": request.file_name,
-     #   "status": "pending"
-    #}
+
 @app.post("/predict")
-def predict(request: PredictionRequest):
-    result = generate_mock_prediction(
-        farm_id=request.farm_id,
-        file_name=request.file_name
-    )
+async def predict(file: UploadFile = File(...)):
 
-    return result
+    if not file.filename:
+        raise HTTPException(
+            status_code=400,
+            detail="Filename is required"
+        )
+
+    suffix = Path(file.filename).suffix.lower()
+
+    if suffix not in [".jpg", ".jpeg", ".png"]:
+        raise HTTPException(
+            status_code=400,
+            detail="Only JPG, JPEG and PNG images are supported"
+        )
+
+    contents = await file.read()
+
+    if not contents:
+        raise HTTPException(
+            status_code=400,
+            detail="Empty image uploaded"
+        )
+
+    temp_path = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            delete=False,
+            suffix=suffix
+        ) as temp:
+            temp.write(contents)
+            temp_path = temp.name
+
+        result = model_adapter.predict(temp_path)
+
+        result["filename"] = file.filename
+
+        return result
+
+    except (ValueError, FileNotFoundError) as e:
+        raise HTTPException(
+            status_code=400,
+            detail=str(e)
+        )
+
+    finally:
+        if temp_path and os.path.exists(temp_path):
+            os.remove(temp_path)
+
 
 @app.post("/inspect-raster")
 async def inspect_raster_endpoint(file: UploadFile = File(...)):
@@ -53,14 +91,20 @@ async def inspect_raster_endpoint(file: UploadFile = File(...)):
     contents = await file.read()
 
     if not contents:
-        raise HTTPException(status_code=400, detail="Empty file uploaded")
+        raise HTTPException(
+            status_code=400,
+            detail="Empty file uploaded"
+        )
 
     suffix = Path(file.filename or "upload.tif").suffix or ".tif"
 
     temp_path = None
 
     try:
-        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as temp:
+        with tempfile.NamedTemporaryFile(
+            delete=False,
+            suffix=suffix
+        ) as temp:
             temp.write(contents)
             temp_path = temp.name
 
@@ -73,7 +117,10 @@ async def inspect_raster_endpoint(file: UploadFile = File(...)):
         }
 
     except (ValueError, OSError) as e:
-        raise HTTPException(status_code=400, detail=str(e))
+        raise HTTPException(
+            status_code=400,
+            detail=str(e)
+        )
 
     finally:
         if temp_path and os.path.exists(temp_path):
