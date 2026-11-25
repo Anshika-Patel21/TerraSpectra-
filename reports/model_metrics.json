@@ -1,0 +1,25 @@
+{
+    "model_name": "TerraSpectra MobileNetV2 v4",
+    "architecture": "MobileNetV2 Transfer Learning",
+    "input_size": [
+        224,
+        224,
+        3
+    ],
+    "class_names": [
+        "Black rot",
+        "Esca",
+        "Healthy",
+        "Leaf blight"
+    ],
+    "test_accuracy": 0.8392857142857143,
+    "test_macro_f1": 0.7609706142406432,
+    "test_weighted_f1": 0.8433123745380191,
+    "validation_macro_f1": 0.7815696481,
+    "test_images": 336,
+    "training_images": 1730,
+    "validation_images": 341,
+    "preprocessing": "MobileNetV2 preprocess_input",
+    "model_file": "terraspectra_mobilenetv2_final.keras",
+    "known_limitation": "Leaf blight and Esca confusion; limited Black rot test support; representative-vineyard split limitation."
+}
