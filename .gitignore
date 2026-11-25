@@ -218,6 +218,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+sample_leaf.jpeg
+backend/app/main_backup.py
 
 # TerraSpectra - Hyperspectral Data
 data/raw/*
