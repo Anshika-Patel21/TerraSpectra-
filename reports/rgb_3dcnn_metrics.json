@@ -1,0 +1,33 @@
+{
+    "model": "TerraSpectra RGB 3D-CNN",
+    "dataset": "GVLiD",
+    "model_type": "RGB experimental 3D-CNN",
+    "input_shape": [
+        3,
+        64,
+        64,
+        1
+    ],
+    "class_names": [
+        "Black rot",
+        "Esca",
+        "Healthy",
+        "Leaf blight"
+    ],
+    "normalization": "RGB values divided by 255",
+    "training_images": 1730,
+    "validation_images": 341,
+    "test_images": 336,
+    "seed": 42,
+    "epochs": 15,
+    "batch_size": 4,
+    "test_accuracy": 0.8809523809523809,
+    "macro_precision": 0.8037031461688996,
+    "macro_recall": 0.7890465883323026,
+    "macro_f1": 0.7834457741746745,
+    "weighted_precision": 0.8763422650408953,
+    "weighted_recall": 0.8809523809523809,
+    "weighted_f1": 0.8706142935282961,
+    "checkpoint": "models\\terraspectra_rgb_3dcnn_best.keras",
+    "limitation": "This model uses RGB channels as a depth dimension. It is not a hyperspectral model and does not contain independent wavelength bands."
+}

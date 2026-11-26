@@ -1,0 +1,61 @@
+{
+    "experiment": "RGB 3D-CNN",
+    "test_samples": 336,
+    "class_names": [
+        "Black rot",
+        "Esca",
+        "Healthy",
+        "Leaf blight"
+    ],
+    "input_shape": [
+        3,
+        64,
+        64,
+        1
+    ],
+    "accuracy": 0.8809523809523809,
+    "macro_precision": 0.8037031461688996,
+    "macro_recall": 0.7890465883323026,
+    "macro_f1": 0.7834457741746745,
+    "weighted_f1": 0.8706142935282961,
+    "per_class": {
+        "Black rot": {
+            "precision": 0.6923076923076923,
+            "recall": 0.8181818181818182,
+            "f1-score": 0.75,
+            "support": 11.0
+        },
+        "Esca": {
+            "precision": 0.8082191780821918,
+            "recall": 0.9365079365079365,
+            "f1-score": 0.8676470588235294,
+            "support": 126.0
+        },
+        "Healthy": {
+            "precision": 1.0,
+            "recall": 0.9933333333333333,
+            "f1-score": 0.9966555183946488,
+            "support": 150.0
+        },
+        "Leaf blight": {
+            "precision": 0.7142857142857143,
+            "recall": 0.40816326530612246,
+            "f1-score": 0.5194805194805194,
+            "support": 49.0
+        },
+        "accuracy": 0.8809523809523809,
+        "macro avg": {
+            "precision": 0.8037031461688996,
+            "recall": 0.7890465883323026,
+            "f1-score": 0.7834457741746745,
+            "support": 336.0
+        },
+        "weighted avg": {
+            "precision": 0.8763422650408953,
+            "recall": 0.8809523809523809,
+            "f1-score": 0.8706142935282961,
+            "support": 336.0
+        }
+    },
+    "limitation": "RGB channels are used as the depth dimension. This is not a hyperspectral model."
+}
