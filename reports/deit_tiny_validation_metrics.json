@@ -1,0 +1,24 @@
+{
+    "model": "facebook/deit-tiny-patch16-224",
+    "experiment": "DeiT-Tiny RGB Linear Probing",
+    "device": "cpu",
+    "best_epoch": 12,
+    "total_epochs": 12,
+    "best_validation_loss": 0.39395660829058915,
+    "validation_accuracy": 0.8387096774193549,
+    "macro_precision": 0.7704669964465578,
+    "macro_recall": 0.8100824590646143,
+    "macro_f1": 0.7879909936813485,
+    "weighted_f1": 0.8393607710913495,
+    "validation_images": 341,
+    "class_names": [
+        "Black rot",
+        "Esca",
+        "Healthy",
+        "Leaf blight"
+    ],
+    "training_seconds": 566.42,
+    "input_type": "RGB",
+    "pretrained_weights": "facebook/deit-tiny-patch16-224",
+    "training_strategy": "Frozen backbone; classifier head only"
+}

@@ -1,0 +1,337 @@
+filename,image_path,label,actual_class,predicted_class,confidence,correct_prediction,probability_black_rot,probability_esca,probability_healthy,probability_leaf_blight
+black rot013.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot013.jpg,Black rot,Black rot,Black rot,0.6689899,True,0.6689899,0.011510289,0.22588909,0.0936107
+black rot049.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot049.jpg,Black rot,Black rot,Black rot,0.9335841,True,0.9335841,0.0011797269,0.00022293231,0.065013334
+black rot113.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot113.jpg,Black rot,Black rot,Black rot,0.91603494,True,0.91603494,0.012923288,0.02170975,0.04933217
+black rot121.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot121.jpg,Black rot,Black rot,Healthy,0.8037579,False,0.06420364,0.09774803,0.8037579,0.034290407
+black rot201.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot201.jpg,Black rot,Black rot,Leaf blight,0.66212547,False,0.2948947,0.0403245,0.002655343,0.66212547
+black rot433.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot433.jpg,Black rot,Black rot,Black rot,0.979334,True,0.979334,0.0019462593,6.118056e-05,0.018658537
+black rot579.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot579.jpg,Black rot,Black rot,Black rot,0.78684354,True,0.78684354,0.019138204,0.00676243,0.18725584
+black rot651.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot651.jpg,Black rot,Black rot,Esca,0.44033542,False,0.198535,0.44033542,0.074143335,0.2869863
+black rot705.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot705.jpg,Black rot,Black rot,Leaf blight,0.536177,False,0.11441762,0.31710902,0.032296374,0.536177
+black rot723.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot723.jpg,Black rot,Black rot,Black rot,0.7952922,True,0.7952922,0.070446245,0.07192807,0.062333487
+black rot745.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\Black rot\black rot745.jpg,Black rot,Black rot,Leaf blight,0.671564,False,0.282876,0.0452677,0.00029232493,0.671564
+esca010.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca010.jpg,esca,Esca,Esca,0.8822931,True,0.003733985,0.8822931,0.08606486,0.02790804
+esca014.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca014.jpg,esca,Esca,Esca,0.7139276,True,0.015432664,0.7139276,0.016429693,0.25421
+esca017.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca017.jpg,esca,Esca,Esca,0.72682023,True,0.0033977546,0.72682023,0.00254221,0.2672398
+esca031.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca031.jpg,esca,Esca,Esca,0.7087087,True,0.0076280315,0.7087087,0.047337558,0.23632573
+esca039.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca039.jpg,esca,Esca,Esca,0.53957856,True,0.0010170201,0.53957856,0.00021941744,0.459185
+esca041.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca041.jpg,esca,Esca,Esca,0.76000774,True,0.0014336559,0.76000774,0.0019832735,0.2365754
+esca042.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca042.jpg,esca,Esca,Esca,0.9003214,True,0.008653336,0.9003214,0.009890727,0.08113461
+esca047.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca047.jpg,esca,Esca,Esca,0.6646613,True,0.01130243,0.6646613,0.0003172066,0.323719
+esca053.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca053.jpg,esca,Esca,Esca,0.88815004,True,0.0012427149,0.88815004,0.019450765,0.09115659
+esca060.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca060.jpg,esca,Esca,Leaf blight,0.7999264,False,0.09496306,0.10382792,0.0012826687,0.7999264
+esca083.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca083.jpg,esca,Esca,Esca,0.57364184,True,0.004168921,0.57364184,0.33936912,0.08282017
+esca084.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca084.jpg,esca,Esca,Leaf blight,0.5344329,False,0.012769556,0.43905303,0.013744581,0.5344329
+esca085.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca085.jpg,esca,Esca,Esca,0.96019924,True,0.0010067255,0.96019924,0.008950586,0.029843505
+esca127.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca127.jpg,esca,Esca,Leaf blight,0.666926,False,0.0028339298,0.29886082,0.03137923,0.666926
+esca136.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca136.jpg,esca,Esca,Esca,0.44261232,True,0.19595523,0.44261232,0.14741169,0.21402073
+esca140.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca140.jpg,esca,Esca,Esca,0.9449362,True,0.0019489756,0.9449362,0.0017571034,0.051357653
+esca149.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca149.jpg,esca,Esca,Leaf blight,0.52129394,False,0.0022872745,0.47422332,0.0021954149,0.52129394
+esca160.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca160.jpg,esca,Esca,Leaf blight,0.7544839,False,0.007082517,0.2383083,0.00012537376,0.7544839
+esca167.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca167.jpg,esca,Esca,Esca,0.5321803,True,0.002278298,0.5321803,0.0014025649,0.46413884
+esca169.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca169.jpg,esca,Esca,Esca,0.5465296,True,0.06534007,0.5465296,0.016214808,0.3719155
+esca171.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca171.jpg,esca,Esca,Healthy,0.47573885,False,0.024045011,0.3910467,0.47573885,0.10916944
+esca179.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca179.jpg,esca,Esca,Leaf blight,0.5494924,False,0.0001930635,0.4488763,0.0014382811,0.5494924
+esca197.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca197.jpg,esca,Esca,Esca,0.52305156,True,0.036987428,0.52305156,0.015359205,0.4246018
+esca206.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca206.jpg,esca,Esca,Esca,0.5483134,True,0.0022005853,0.5483134,0.0028960276,0.44658995
+esca212.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca212.jpg,esca,Esca,Esca,0.8859141,True,0.007634391,0.8859141,0.06871614,0.037735436
+esca228.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca228.jpg,esca,Esca,Esca,0.7206782,True,0.0042090863,0.7206782,0.028714329,0.24639837
+esca250.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca250.jpg,esca,Esca,Esca,0.741068,True,0.005255347,0.741068,0.0064276233,0.247249
+esca257.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca257.jpg,esca,Esca,Esca,0.5677454,True,0.029132642,0.5677454,0.027208747,0.3759132
+esca265.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca265.jpg,esca,Esca,Esca,0.71488446,True,0.023769781,0.71488446,0.018109202,0.24323653
+esca285.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca285.jpg,esca,Esca,Esca,0.7685979,True,0.001390714,0.7685979,7.0987546e-05,0.22994041
+esca286.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca286.jpg,esca,Esca,Esca,0.91871357,True,0.0040044473,0.91871357,0.001305058,0.075977005
+esca300.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca300.jpg,esca,Esca,Leaf blight,0.70361525,False,0.00043250053,0.29588437,6.789451e-05,0.70361525
+esca302.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca302.jpg,esca,Esca,Esca,0.6516615,True,0.005605255,0.6516615,0.14658196,0.19615132
+esca306.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca306.jpg,esca,Esca,Esca,0.74729294,True,0.0014513726,0.74729294,0.00020453935,0.25105125
+esca307.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca307.jpg,esca,Esca,Healthy,0.6224859,False,0.008400614,0.32987645,0.6224859,0.03923697
+esca308.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca308.jpg,esca,Esca,Esca,0.6438909,True,0.002449637,0.6438909,0.31655866,0.037100833
+esca312.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca312.jpg,esca,Esca,Esca,0.9729968,True,0.0018687986,0.9729968,0.007527209,0.017607188
+esca328.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca328.jpg,esca,Esca,Leaf blight,0.8768729,False,0.0071537197,0.11593923,3.419892e-05,0.8768729
+esca333.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca333.jpg,esca,Esca,Leaf blight,0.5768821,False,0.037993122,0.3839951,0.001129665,0.5768821
+esca351.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca351.jpg,esca,Esca,Esca,0.7225802,True,0.018035328,0.7225802,0.050518606,0.20886596
+esca358.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca358.jpg,esca,Esca,Esca,0.47115636,True,0.09390828,0.47115636,0.12049342,0.31444192
+esca362.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca362.jpg,esca,Esca,Esca,0.84323585,True,0.002548753,0.84323585,0.0022401065,0.15197535
+esca364.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca364.jpg,esca,Esca,Esca,0.82729185,True,0.016999308,0.82729185,0.064105116,0.09160367
+esca377.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca377.jpg,esca,Esca,Healthy,0.7984718,False,0.0019575623,0.1674128,0.7984718,0.032157905
+esca378.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca378.jpg,esca,Esca,Leaf blight,0.50807464,False,0.04866168,0.44306278,0.00020091597,0.50807464
+esca390.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca390.jpg,esca,Esca,Esca,0.8937698,True,0.002376884,0.8937698,0.0032052102,0.10064804
+esca393.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca393.jpg,esca,Esca,Esca,0.7257613,True,0.020140586,0.7257613,0.1427633,0.111334845
+esca449.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca449.jpg,esca,Esca,Leaf blight,0.66414475,False,0.0015517988,0.33414838,0.00015497874,0.66414475
+esca461.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca461.jpg,esca,Esca,Esca,0.76168686,True,0.025046282,0.76168686,0.033206005,0.18006086
+esca466.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca466.jpg,esca,Esca,Esca,0.58550906,True,0.02600134,0.58550906,0.0060542305,0.3824354
+esca481.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca481.jpg,esca,Esca,Esca,0.7838601,True,0.08518975,0.7838601,0.012520267,0.118429914
+esca519.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca519.jpg,esca,Esca,Leaf blight,0.5007756,False,0.0076772585,0.47852945,0.01301777,0.5007756
+esca588.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca588.jpg,esca,Esca,Esca,0.91693264,True,0.000103446175,0.91693264,4.0918803e-05,0.08292305
+esca589.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca589.jpg,esca,Esca,Leaf blight,0.7803814,False,0.040712852,0.17625618,0.002649592,0.7803814
+esca592.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca592.jpg,esca,Esca,Esca,0.8533382,True,0.010016383,0.8533382,0.013232663,0.12341273
+esca595.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca595.jpg,esca,Esca,Esca,0.7881575,True,0.01050305,0.7881575,0.025730673,0.17560871
+esca605.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca605.jpg,esca,Esca,Esca,0.9428962,True,0.0006379099,0.9428962,0.00035829944,0.05610755
+esca607.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca607.jpg,esca,Esca,Esca,0.60717815,True,0.0019115767,0.60717815,0.0091831535,0.38172713
+esca608.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca608.jpg,esca,Esca,Esca,0.804121,True,0.003384641,0.804121,0.077938266,0.114556044
+esca614.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca614.jpg,esca,Esca,Esca,0.8155553,True,0.0025816998,0.8155553,0.0023020953,0.17956091
+esca625.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca625.jpg,esca,Esca,Esca,0.43953034,True,0.057871137,0.43953034,0.41078028,0.09181818
+esca636.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca636.jpg,esca,Esca,Leaf blight,0.5484314,False,0.004040306,0.44272125,0.0048070047,0.5484314
+esca641.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca641.jpg,esca,Esca,Esca,0.6362072,True,0.001170399,0.6362072,0.0013562107,0.36126617
+esca652.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca652.jpg,esca,Esca,Leaf blight,0.63424313,False,0.034852464,0.32156563,0.009338778,0.63424313
+esca654.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca654.jpg,esca,Esca,Leaf blight,0.66474116,False,0.06136055,0.26016062,0.013737694,0.66474116
+esca664.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca664.jpg,esca,Esca,Healthy,0.3947961,False,0.07072146,0.19309907,0.3947961,0.3413833
+esca673.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca673.jpg,esca,Esca,Esca,0.46632752,True,0.063943915,0.46632752,0.044333134,0.42539537
+esca676.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca676.jpg,esca,Esca,Esca,0.5572982,True,0.09730619,0.5572982,0.26469776,0.080697894
+esca681.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca681.jpg,esca,Esca,Leaf blight,0.82583135,False,0.0013048218,0.17188554,0.0009783127,0.82583135
+esca688.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca688.jpg,esca,Esca,Leaf blight,0.7074037,False,0.0037462143,0.28073922,0.008110833,0.7074037
+esca701.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca701.jpg,esca,Esca,Esca,0.8163653,True,0.0017556822,0.8163653,0.037095908,0.1447831
+esca703.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca703.jpg,esca,Esca,Leaf blight,0.49866223,False,0.034233663,0.32366535,0.1434387,0.49866223
+esca705.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca705.jpg,esca,Esca,Leaf blight,0.77394867,False,0.003914257,0.22133896,0.0007981018,0.77394867
+esca709.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca709.jpg,esca,Esca,Esca,0.7524187,True,0.011689797,0.7524187,0.022576682,0.21331479
+esca714.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca714.jpg,esca,Esca,Esca,0.5210479,True,0.041848283,0.5210479,0.26935625,0.16774756
+esca717.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca717.jpg,esca,Esca,Leaf blight,0.6495729,False,0.0007027111,0.34659427,0.0031301067,0.6495729
+esca734.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca734.jpg,esca,Esca,Esca,0.8571826,True,0.04849617,0.8571826,0.028217621,0.06610354
+esca738.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca738.jpg,esca,Esca,Esca,0.9096005,True,0.0031955598,0.9096005,0.01232353,0.07488048
+esca743.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca743.jpg,esca,Esca,Esca,0.6765668,True,0.04645803,0.6765668,0.009342905,0.26763228
+esca778.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca778.jpg,esca,Esca,Esca,0.7631331,True,0.016444916,0.7631331,0.0028147204,0.2176073
+esca781.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca781.jpg,esca,Esca,Esca,0.81731373,True,0.03463646,0.81731373,0.08086938,0.067180365
+esca797.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca797.jpg,esca,Esca,Esca,0.7438634,True,0.001061679,0.7438634,0.004370383,0.2507045
+esca801.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca801.jpg,esca,Esca,Esca,0.82381237,True,0.04207126,0.82381237,0.016348839,0.11776749
+esca802.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca802.jpg,esca,Esca,Esca,0.7107066,True,0.07168751,0.7107066,0.083630845,0.13397503
+esca820.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca820.jpg,esca,Esca,Esca,0.8237609,True,5.6734352e-05,0.8237609,0.0011803155,0.17500195
+esca821.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca821.jpg,esca,Esca,Esca,0.6774331,True,0.0050391974,0.6774331,0.010232987,0.3072948
+esca832.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca832.jpg,esca,Esca,Esca,0.6871314,True,0.0074764946,0.6871314,0.022312129,0.28307998
+esca838.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca838.jpg,esca,Esca,Esca,0.476946,True,0.06765759,0.476946,0.38586053,0.06953598
+esca861.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca861.jpg,esca,Esca,Esca,0.83290297,True,0.010243499,0.83290297,0.006430469,0.15042304
+esca880.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca880.jpg,esca,Esca,Esca,0.6288247,True,0.043231204,0.6288247,0.20583202,0.12211201
+esca883.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca883.jpg,esca,Esca,Esca,0.63103163,True,0.00197327,0.63103163,0.0016736898,0.36532143
+esca884.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca884.jpg,esca,Esca,Esca,0.6918308,True,0.037605356,0.6918308,0.14164287,0.12892096
+leaf blight001.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight001.jpg,leaf blight,Leaf blight,Leaf blight,0.9553024,True,0.022489166,0.020189112,0.0020193348,0.9553024
+leaf blight023.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight023.jpg,leaf blight,Leaf blight,Black rot,0.94200075,False,0.94200075,0.000627004,0.007682661,0.049689468
+leaf blight031.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight031.jpg,leaf blight,Leaf blight,Leaf blight,0.9297386,True,0.05102105,0.015543366,0.003697012,0.9297386
+leaf blight041.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight041.jpg,leaf blight,Leaf blight,Leaf blight,0.8865043,True,0.09231757,0.006788817,0.014389344,0.8865043
+leaf blight046.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight046.jpg,leaf blight,Leaf blight,Leaf blight,0.79579115,True,0.14292414,0.040350333,0.020934325,0.79579115
+leaf blight051.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight051.jpg,leaf blight,Leaf blight,Leaf blight,0.87282556,True,0.061687518,0.05722929,0.008257664,0.87282556
+leaf blight058.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight058.jpg,leaf blight,Leaf blight,Leaf blight,0.8479702,True,0.05087588,0.06033288,0.040821075,0.8479702
+leaf blight059.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight059.jpg,leaf blight,Leaf blight,Leaf blight,0.941958,True,0.021405758,0.026431851,0.010204395,0.941958
+leaf blight077.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight077.jpg,leaf blight,Leaf blight,Leaf blight,0.60470283,True,0.25086838,0.026158486,0.11827027,0.60470283
+leaf blight082.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight082.jpg,leaf blight,Leaf blight,Leaf blight,0.93140095,True,0.006823079,0.0592079,0.0025679953,0.93140095
+leaf blight125.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight125.jpg,leaf blight,Leaf blight,Leaf blight,0.5027809,True,0.45988026,0.023372939,0.013965887,0.5027809
+leaf blight130.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight130.jpg,leaf blight,Leaf blight,Leaf blight,0.9417445,True,0.023234937,0.033228543,0.0017920706,0.9417445
+leaf blight133.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight133.jpg,leaf blight,Leaf blight,Leaf blight,0.84578425,True,0.13529046,0.017886043,0.0010392321,0.84578425
+leaf blight143.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight143.jpg,leaf blight,Leaf blight,Black rot,0.7333816,False,0.7333816,0.008733313,0.00013428228,0.2577508
+leaf blight146.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight146.jpg,leaf blight,Leaf blight,Leaf blight,0.59249246,True,0.40249535,0.0032001883,0.0018119247,0.59249246
+leaf blight175.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight175.jpg,leaf blight,Leaf blight,Leaf blight,0.37012795,True,0.28484696,0.23737405,0.10765103,0.37012795
+leaf blight177.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight177.jpg,leaf blight,Leaf blight,Leaf blight,0.86788714,True,0.117097236,0.014086196,0.0009294771,0.86788714
+leaf blight182.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight182.jpg,leaf blight,Leaf blight,Leaf blight,0.81084806,True,0.17554526,0.006837881,0.006768857,0.81084806
+leaf blight187.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight187.jpg,leaf blight,Leaf blight,Leaf blight,0.9471958,True,0.0011429421,0.051434334,0.00022690385,0.9471958
+leaf blight201.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight201.jpg,leaf blight,Leaf blight,Leaf blight,0.96469325,True,0.029680366,0.0055001616,0.00012616973,0.96469325
+leaf blight213.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight213.jpg,leaf blight,Leaf blight,Leaf blight,0.9845056,True,0.010833311,0.004558309,0.000102730126,0.9845056
+leaf blight219.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight219.jpg,leaf blight,Leaf blight,Black rot,0.61815715,False,0.61815715,0.0064883274,0.0003275997,0.37502685
+leaf blight234.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight234.jpg,leaf blight,Leaf blight,Black rot,0.39584482,False,0.39584482,0.21123569,0.07916469,0.31375483
+leaf blight245.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight245.jpg,leaf blight,Leaf blight,Leaf blight,0.44922167,True,0.1776156,0.23973013,0.13343263,0.44922167
+leaf blight263.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight263.jpg,leaf blight,Leaf blight,Leaf blight,0.97605646,True,0.018855153,0.005048274,4.013635e-05,0.97605646
+leaf blight320.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight320.jpg,leaf blight,Leaf blight,Esca,0.74818784,False,0.03133129,0.74818784,0.0011504488,0.21933043
+leaf blight333.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight333.jpg,leaf blight,Leaf blight,Esca,0.7024144,False,0.008315646,0.7024144,0.045804307,0.24346553
+leaf blight374.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight374.jpg,leaf blight,Leaf blight,Esca,0.6729113,False,0.0013815139,0.6729113,0.0040491703,0.32165802
+leaf blight375.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight375.jpg,leaf blight,Leaf blight,Esca,0.3543861,False,0.008769383,0.3543861,0.3476693,0.28917524
+leaf blight379.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight379.jpg,leaf blight,Leaf blight,Esca,0.5945204,False,0.0043642004,0.5945204,0.3140339,0.08708155
+leaf blight385.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight385.jpg,leaf blight,Leaf blight,Esca,0.90910983,False,0.00097533147,0.90910983,0.0076949396,0.0822199
+leaf blight439.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight439.jpg,leaf blight,Leaf blight,Esca,0.833042,False,0.0017465173,0.833042,0.0017658244,0.1634456
+leaf blight451.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight451.jpg,leaf blight,Leaf blight,Leaf blight,0.52610904,True,0.0001896247,0.4724288,0.0012724956,0.52610904
+leaf blight457.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight457.jpg,leaf blight,Leaf blight,Esca,0.58345246,False,0.0025836378,0.58345246,0.0022816241,0.41168234
+leaf blight463.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight463.jpg,leaf blight,Leaf blight,Esca,0.77916396,False,0.0010935905,0.77916396,0.006307299,0.21343516
+leaf blight483.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight483.jpg,leaf blight,Leaf blight,Esca,0.92830163,False,0.00028169356,0.92830163,5.2496627e-05,0.07136413
+leaf blight489.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight489.jpg,leaf blight,Leaf blight,Esca,0.9336038,False,0.006740133,0.9336038,0.015171107,0.044485014
+leaf blight495.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight495.jpg,leaf blight,Leaf blight,Esca,0.9577751,False,0.003055203,0.9577751,0.00019088892,0.038978793
+leaf blight502.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight502.jpg,leaf blight,Leaf blight,Esca,0.8107471,False,0.0022628382,0.8107471,0.0034829846,0.18350704
+leaf blight521.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight521.jpg,leaf blight,Leaf blight,Esca,0.7299423,False,0.003410497,0.7299423,0.0001412374,0.266506
+leaf blight545.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight545.jpg,leaf blight,Leaf blight,Leaf blight,0.56070036,True,0.0045376183,0.43369508,0.0010669696,0.56070036
+leaf blight563.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight563.jpg,leaf blight,Leaf blight,Esca,0.8484672,False,0.0021148839,0.8484672,0.0057125585,0.14370541
+leaf blight613.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight613.jpg,leaf blight,Leaf blight,Leaf blight,0.45262834,True,0.06444919,0.38713396,0.09578855,0.45262834
+leaf blight615.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight615.jpg,leaf blight,Leaf blight,Leaf blight,0.5631539,True,0.004156121,0.42838967,0.00430026,0.5631539
+leaf blight659.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight659.jpg,leaf blight,Leaf blight,Esca,0.8088866,False,0.013635876,0.8088866,0.0005424352,0.17693505
+healthy012.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy012.jpg,healthy,Healthy,Healthy,0.9916476,True,0.0001778836,0.0063455394,0.9916476,0.0018290078
+healthy025.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy025.jpg,healthy,Healthy,Healthy,0.92673224,True,0.010405509,0.04931856,0.92673224,0.013543737
+healthy026.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy026.jpg,healthy,Healthy,Healthy,0.8807937,True,0.0331938,0.040394492,0.8807937,0.045617957
+healthy027.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy027.jpg,healthy,Healthy,Healthy,0.9774049,True,0.009769556,0.008072365,0.9774049,0.004753142
+healthy035.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy035.jpg,healthy,Healthy,Healthy,0.884309,True,0.02600016,0.05927577,0.884309,0.030415041
+healthy040.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy040.jpg,healthy,Healthy,Healthy,0.98895603,True,0.0030968469,0.0076541887,0.98895603,0.0002929305
+healthy046.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy046.jpg,healthy,Healthy,Healthy,0.99275255,True,0.0022377186,0.00345695,0.99275255,0.0015528277
+healthy064.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy064.jpg,healthy,Healthy,Healthy,0.5249733,True,0.06515363,0.3889416,0.5249733,0.02093147
+healthy080.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy080.jpg,healthy,Healthy,Healthy,0.6889046,True,0.014995037,0.10069435,0.6889046,0.19540605
+healthy083.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy083.jpg,healthy,Healthy,Healthy,0.997292,True,0.00029913694,0.0022723835,0.997292,0.00013648078
+healthy084.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy084.jpg,healthy,Healthy,Healthy,0.9766802,True,0.0038322045,0.016936705,0.9766802,0.0025509028
+healthy090.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy090.jpg,healthy,Healthy,Healthy,0.9253597,True,0.01921154,0.027495427,0.9253597,0.027933285
+healthy098.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy098.jpg,healthy,Healthy,Healthy,0.9772634,True,0.0044541173,0.01638318,0.9772634,0.0018992474
+healthy1005.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1005.jpg,healthy,Healthy,Healthy,0.69452703,True,0.24058929,0.06369135,0.69452703,0.0011922762
+healthy1014.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1014.jpg,healthy,Healthy,Healthy,0.80306506,True,0.04645723,0.09287931,0.80306506,0.05759842
+healthy1018.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1018.jpg,healthy,Healthy,Healthy,0.8459157,True,0.012043105,0.07475146,0.8459157,0.06728984
+healthy1021.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1021.jpg,healthy,Healthy,Healthy,0.99722975,True,0.0015937949,0.00074882933,0.99722975,0.0004275952
+healthy1032.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1032.jpg,healthy,Healthy,Healthy,0.92538726,True,0.026213665,0.026028378,0.92538726,0.022370657
+healthy1040.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1040.jpg,healthy,Healthy,Healthy,0.9804826,True,0.0010933989,0.012766408,0.9804826,0.0056575383
+healthy1043.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1043.jpg,healthy,Healthy,Healthy,0.9401832,True,0.0037210258,0.05010314,0.9401832,0.0059926673
+healthy1047.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1047.jpg,healthy,Healthy,Healthy,0.9921008,True,0.002520162,0.002588865,0.9921008,0.0027901782
+healthy1073.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1073.jpg,healthy,Healthy,Esca,0.7261593,False,0.001183694,0.7261593,0.2569976,0.0156594
+healthy1075.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1075.jpg,healthy,Healthy,Healthy,0.9977386,True,0.0011998959,0.00086244487,0.9977386,0.0001991531
+healthy1077.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1077.jpg,healthy,Healthy,Healthy,0.9986084,True,0.0007161457,0.000526286,0.9986084,0.00014918465
+healthy1079.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1079.jpg,healthy,Healthy,Healthy,0.9892848,True,0.0044433004,0.0037269439,0.9892848,0.0025449651
+healthy1084.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1084.jpg,healthy,Healthy,Healthy,0.9894399,True,0.0047010514,0.0047633154,0.9894399,0.0010957961
+healthy1086.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1086.jpg,healthy,Healthy,Healthy,0.81705356,True,0.117515035,0.063007526,0.81705356,0.0024238862
+healthy1090.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1090.jpg,healthy,Healthy,Healthy,0.6959223,True,0.013268781,0.271142,0.6959223,0.019666819
+healthy1091.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1091.jpg,healthy,Healthy,Healthy,0.93334925,True,0.006823581,0.051346608,0.93334925,0.008480563
+healthy1102.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1102.jpg,healthy,Healthy,Healthy,0.98511606,True,0.0014816158,0.011038364,0.98511606,0.0023639842
+healthy1103.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1103.jpg,healthy,Healthy,Healthy,0.9362207,True,0.031972587,0.021616533,0.9362207,0.010190087
+healthy1109.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1109.jpg,healthy,Healthy,Healthy,0.8465527,True,0.021182152,0.09844574,0.8465527,0.033819344
+healthy135.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy135.jpg,healthy,Healthy,Healthy,0.949426,True,0.0144372955,0.027633889,0.949426,0.008502827
+healthy138.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy138.jpg,healthy,Healthy,Healthy,0.9880825,True,0.0024987557,0.0067211743,0.9880825,0.0026976436
+healthy141.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy141.jpg,healthy,Healthy,Healthy,0.943182,True,0.019320201,0.018757135,0.943182,0.018740667
+healthy153.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy153.jpg,healthy,Healthy,Healthy,0.8642557,True,0.0059980107,0.067247875,0.8642557,0.062498305
+healthy162.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy162.jpg,healthy,Healthy,Healthy,0.8209908,True,0.032388035,0.12608106,0.8209908,0.020540131
+healthy163.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy163.jpg,healthy,Healthy,Healthy,0.77584225,True,0.08917953,0.112400055,0.77584225,0.022578146
+healthy174.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy174.jpg,healthy,Healthy,Healthy,0.95838547,True,0.0043755854,0.030908477,0.95838547,0.0063304612
+healthy185.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy185.jpg,healthy,Healthy,Healthy,0.988727,True,0.002571731,0.0072637307,0.988727,0.0014375214
+healthy189.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy189.jpg,healthy,Healthy,Healthy,0.80440104,True,0.045402717,0.107406974,0.80440104,0.042789288
+healthy196.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy196.jpg,healthy,Healthy,Healthy,0.9753753,True,0.002848005,0.01659932,0.9753753,0.005177369
+healthy208.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy208.jpg,healthy,Healthy,Healthy,0.8901012,True,0.0034396434,0.07695155,0.8901012,0.02950766
+healthy213.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy213.jpg,healthy,Healthy,Healthy,0.95836586,True,0.010884447,0.025988104,0.95836586,0.0047615743
+healthy215.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy215.jpg,healthy,Healthy,Healthy,0.80439365,True,0.006961413,0.07218219,0.80439365,0.116462745
+healthy221.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy221.jpg,healthy,Healthy,Healthy,0.9841113,True,0.005001636,0.009883239,0.9841113,0.0010038101
+healthy229.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy229.jpg,healthy,Healthy,Healthy,0.9740079,True,0.015497387,0.010007974,0.9740079,0.0004867239
+healthy242.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy242.jpg,healthy,Healthy,Healthy,0.8124072,True,0.0039677364,0.16545293,0.8124072,0.018172204
+healthy269.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy269.jpg,healthy,Healthy,Healthy,0.95606,True,0.01381185,0.019757546,0.95606,0.010370592
+healthy279.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy279.jpg,healthy,Healthy,Healthy,0.39208975,True,0.17341289,0.36683026,0.39208975,0.06766713
+healthy292.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy292.jpg,healthy,Healthy,Healthy,0.86834437,True,0.02407535,0.067256,0.86834437,0.040324297
+healthy297.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy297.jpg,healthy,Healthy,Healthy,0.9461206,True,0.00064782286,0.05082127,0.9461206,0.0024103133
+healthy308.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy308.jpg,healthy,Healthy,Healthy,0.9323225,True,0.007053214,0.022521386,0.9323225,0.03810291
+healthy342.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy342.jpg,healthy,Healthy,Healthy,0.97679466,True,0.0011474568,0.0145808635,0.97679466,0.0074770795
+healthy346.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy346.jpg,healthy,Healthy,Healthy,0.9780065,True,0.0016790876,0.016743073,0.9780065,0.0035712528
+healthy354.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy354.jpg,healthy,Healthy,Healthy,0.9931902,True,0.0007231827,0.0035409976,0.9931902,0.0025455714
+healthy360.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy360.jpg,healthy,Healthy,Healthy,0.97741973,True,0.005377395,0.015828613,0.97741973,0.0013743477
+healthy367.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy367.jpg,healthy,Healthy,Healthy,0.8809651,True,0.024158088,0.052908488,0.8809651,0.0419683
+healthy379.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy379.jpg,healthy,Healthy,Healthy,0.8545352,True,0.07195268,0.064475335,0.8545352,0.009036771
+healthy380.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy380.jpg,healthy,Healthy,Healthy,0.9441834,True,0.002257213,0.04162809,0.9441834,0.011931334
+healthy383.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy383.jpg,healthy,Healthy,Healthy,0.98941606,True,0.0031820487,0.0073005944,0.98941606,0.00010135034
+healthy384.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy384.jpg,healthy,Healthy,Healthy,0.9832713,True,0.0009028375,0.01273168,0.9832713,0.003094167
+healthy409.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy409.jpg,healthy,Healthy,Healthy,0.9282681,True,0.01052036,0.053877212,0.9282681,0.0073344205
+healthy441.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy441.jpg,healthy,Healthy,Healthy,0.94387394,True,0.019733718,0.03204609,0.94387394,0.0043462296
+healthy442.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy442.jpg,healthy,Healthy,Healthy,0.84850746,True,0.055881344,0.084875494,0.84850746,0.010735677
+healthy464.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy464.jpg,healthy,Healthy,Healthy,0.9898929,True,0.001733159,0.0070470925,0.9898929,0.0013268734
+healthy467.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy467.jpg,healthy,Healthy,Healthy,0.87360406,True,0.0043457346,0.055511612,0.87360406,0.06653865
+healthy477.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy477.jpg,healthy,Healthy,Healthy,0.6046814,True,0.0403995,0.30430838,0.6046814,0.05061079
+healthy483.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy483.jpg,healthy,Healthy,Healthy,0.98335093,True,0.0040170024,0.00995107,0.98335093,0.002680962
+healthy491.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy491.jpg,healthy,Healthy,Healthy,0.9822244,True,0.0095272465,0.007262332,0.9822244,0.000986064
+healthy497.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy497.jpg,healthy,Healthy,Healthy,0.9387668,True,0.026514648,0.023807118,0.9387668,0.010911429
+healthy501.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy501.jpg,healthy,Healthy,Healthy,0.98762554,True,0.0037941204,0.0066879573,0.98762554,0.0018923252
+healthy502.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy502.jpg,healthy,Healthy,Healthy,0.9640337,True,0.0019140119,0.028728899,0.9640337,0.005323453
+healthy530.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy530.jpg,healthy,Healthy,Healthy,0.98828983,True,0.0019428591,0.008608306,0.98828983,0.0011590847
+healthy545.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy545.jpg,healthy,Healthy,Healthy,0.97282547,True,0.0055877375,0.016459476,0.97282547,0.0051272926
+healthy547.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy547.jpg,healthy,Healthy,Healthy,0.9983323,True,0.0006446599,0.0009939225,0.9983323,2.9212291e-05
+healthy551.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy551.jpg,healthy,Healthy,Healthy,0.9828798,True,0.01266485,0.0026402911,0.9828798,0.0018150038
+healthy559.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy559.jpg,healthy,Healthy,Healthy,0.92898476,True,0.009744784,0.054767296,0.92898476,0.006503239
+healthy584.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy584.jpg,healthy,Healthy,Healthy,0.7902647,True,0.004448182,0.10341648,0.7902647,0.101870626
+healthy588.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy588.jpg,healthy,Healthy,Healthy,0.8837658,True,0.021389315,0.041688897,0.8837658,0.053155903
+healthy590.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy590.jpg,healthy,Healthy,Healthy,0.7073958,True,0.0010950207,0.25714567,0.7073958,0.034363437
+healthy592.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy592.jpg,healthy,Healthy,Healthy,0.98705405,True,0.0022219433,0.009149034,0.98705405,0.0015749065
+healthy608.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy608.jpg,healthy,Healthy,Healthy,0.9503911,True,0.0038968688,0.016284391,0.9503911,0.02942775
+healthy623.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy623.jpg,healthy,Healthy,Black rot,0.7873672,False,0.7873672,0.09365804,0.07800327,0.040971514
+healthy642.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy642.jpg,healthy,Healthy,Healthy,0.8969417,True,0.008129568,0.045257833,0.8969417,0.049670924
+healthy643.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy643.jpg,healthy,Healthy,Healthy,0.49474487,True,0.067459695,0.27134794,0.49474487,0.16644754
+healthy646.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy646.jpg,healthy,Healthy,Healthy,0.99929786,True,0.00026409666,0.00023018758,0.99929786,0.00020783383
+healthy658.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy658.jpg,healthy,Healthy,Healthy,0.9677424,True,0.010507409,0.013467214,0.9677424,0.008282995
+healthy685.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy685.jpg,healthy,Healthy,Healthy,0.80921674,True,0.0130260745,0.12899591,0.80921674,0.04876127
+healthy686.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy686.jpg,healthy,Healthy,Healthy,0.9859847,True,0.0045309635,0.008441406,0.9859847,0.0010428996
+healthy691.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy691.jpg,healthy,Healthy,Healthy,0.99408406,True,0.0017971392,0.0031224685,0.99408406,0.0009963989
+healthy713.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy713.jpg,healthy,Healthy,Healthy,0.97371477,True,0.0009181117,0.021466276,0.97371477,0.0039008993
+healthy727.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy727.jpg,healthy,Healthy,Healthy,0.99533397,True,0.00015524589,0.0036393844,0.99533397,0.0008713976
+healthy741.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy741.jpg,healthy,Healthy,Healthy,0.98959994,True,0.0076576136,0.0018144837,0.98959994,0.00092792243
+healthy753.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy753.jpg,healthy,Healthy,Healthy,0.8242907,True,0.055004187,0.096785255,0.8242907,0.023919819
+healthy776.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy776.jpg,healthy,Healthy,Healthy,0.93719673,True,0.024330264,0.030722076,0.93719673,0.007750972
+healthy777.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy777.jpg,healthy,Healthy,Healthy,0.8577954,True,0.022246957,0.07780056,0.8577954,0.042157006
+healthy782.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy782.jpg,healthy,Healthy,Healthy,0.99586725,True,0.0025672559,0.0013221002,0.99586725,0.0002433952
+healthy785.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy785.jpg,healthy,Healthy,Healthy,0.9634761,True,0.0018244842,0.02063933,0.9634761,0.0140599925
+healthy793.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy793.jpg,healthy,Healthy,Healthy,0.9577438,True,0.00068741984,0.029555285,0.9577438,0.012013566
+healthy807.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy807.jpg,healthy,Healthy,Healthy,0.9771243,True,0.0020679673,0.01202425,0.9771243,0.00878349
+healthy829.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy829.jpg,healthy,Healthy,Healthy,0.9849685,True,0.0065462133,0.0064016087,0.9849685,0.0020837358
+healthy849.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy849.jpg,healthy,Healthy,Healthy,0.9849547,True,0.0028566348,0.009000398,0.9849547,0.0031882855
+healthy854.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy854.jpg,healthy,Healthy,Healthy,0.9431881,True,0.0046920204,0.025567822,0.9431881,0.026552025
+healthy857.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy857.jpg,healthy,Healthy,Healthy,0.5500816,True,0.040823583,0.30945316,0.5500816,0.09964158
+healthy869.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy869.jpg,healthy,Healthy,Healthy,0.9697983,True,0.013536835,0.0102252895,0.9697983,0.0064395876
+healthy870.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy870.jpg,healthy,Healthy,Healthy,0.96309507,True,0.0029895843,0.020278525,0.96309507,0.013636898
+healthy873.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy873.jpg,healthy,Healthy,Healthy,0.9704014,True,0.011289342,0.014117163,0.9704014,0.0041920356
+healthy880.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy880.jpg,healthy,Healthy,Healthy,0.9403528,True,0.005487946,0.045174558,0.9403528,0.008984708
+healthy890.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy890.jpg,healthy,Healthy,Healthy,0.9546865,True,0.007691112,0.01688798,0.9546865,0.020734387
+healthy896.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy896.jpg,healthy,Healthy,Healthy,0.96800673,True,0.01268834,0.01783793,0.96800673,0.0014670502
+healthy897.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy897.jpg,healthy,Healthy,Healthy,0.97648686,True,0.0014465249,0.016485061,0.97648686,0.005581541
+healthy918.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy918.jpg,healthy,Healthy,Healthy,0.8175378,True,0.009070461,0.1258833,0.8175378,0.047508515
+healthy926.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy926.jpg,healthy,Healthy,Healthy,0.9700871,True,0.0095741,0.015756506,0.9700871,0.0045822095
+healthy948.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy948.jpg,healthy,Healthy,Healthy,0.61445963,True,0.06383038,0.17980596,0.61445963,0.14190395
+healthy964.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy964.jpg,healthy,Healthy,Healthy,0.9935597,True,0.0035265083,0.00078107713,0.9935597,0.0021326384
+healthy970.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy970.jpg,healthy,Healthy,Healthy,0.9653329,True,0.0028054102,0.025497042,0.9653329,0.0063646506
+healthy988.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy988.jpg,healthy,Healthy,Healthy,0.9878203,True,0.0013259649,0.008822559,0.9878203,0.0020310327
+esca062.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca062.jpg,esca,Esca,Esca,0.77440107,True,0.0009097412,0.77440107,0.009459081,0.21523015
+esca102.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca102.jpg,esca,Esca,Esca,0.67709225,True,0.009955279,0.67709225,0.113397025,0.19955547
+esca128.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca128.jpg,esca,Esca,Healthy,0.6035924,False,0.011540033,0.20589358,0.6035924,0.17897403
+esca157.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca157.jpg,esca,Esca,Leaf blight,0.6734191,False,0.002425473,0.32337052,0.00078487955,0.6734191
+esca164.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca164.jpg,esca,Esca,Leaf blight,0.45401284,False,0.017031154,0.3513198,0.17763619,0.45401284
+esca170.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca170.jpg,esca,Esca,Leaf blight,0.6520439,False,0.0044109267,0.34156248,0.0019827094,0.6520439
+esca226.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca226.jpg,esca,Esca,Esca,0.8454268,True,0.008225934,0.8454268,0.04308236,0.103264876
+esca323.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca323.jpg,esca,Esca,Esca,0.6501787,True,0.042996682,0.6501787,0.108038895,0.19878578
+esca347.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca347.jpg,esca,Esca,Esca,0.52697444,True,0.004568506,0.52697444,0.0003879258,0.46806914
+esca379.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca379.jpg,esca,Esca,Esca,0.6192369,True,0.04415138,0.6192369,0.18051669,0.15609507
+esca383.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca383.jpg,esca,Esca,Esca,0.7742767,True,0.0006901575,0.7742767,0.00029363332,0.22473955
+esca385.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca385.jpg,esca,Esca,Esca,0.93059206,True,0.004488391,0.93059206,0.026643422,0.03827604
+esca394.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca394.jpg,esca,Esca,Esca,0.780859,True,0.033080082,0.780859,0.006203604,0.17985725
+esca406.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca406.jpg,esca,Esca,Esca,0.54165006,True,0.00057184824,0.54165006,0.037060253,0.4207179
+esca456.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca456.jpg,esca,Esca,Esca,0.94911546,True,0.0014874382,0.94911546,0.0029481235,0.046449028
+esca468.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca468.jpg,esca,Esca,Esca,0.5900452,True,0.00893053,0.5900452,0.036982972,0.3640413
+esca470.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca470.jpg,esca,Esca,Esca,0.79518497,True,0.0063603604,0.79518497,0.00046277416,0.19799192
+esca493.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca493.jpg,esca,Esca,Esca,0.8208798,True,0.0037052722,0.8208798,0.013913196,0.16150168
+esca495.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca495.jpg,esca,Esca,Esca,0.7210234,True,0.0018310649,0.7210234,0.061254043,0.21589158
+esca517.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca517.jpg,esca,Esca,Esca,0.5366966,True,0.0043980083,0.5366966,8.3486026e-05,0.45882186
+esca528.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca528.jpg,esca,Esca,Esca,0.838415,True,0.011161785,0.838415,0.041916683,0.108506545
+esca537.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca537.jpg,esca,Esca,Esca,0.838088,True,0.009383776,0.838088,0.031577967,0.120950244
+esca573.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca573.jpg,esca,Esca,Esca,0.8834436,True,0.0039066123,0.8834436,0.06439725,0.04825244
+esca578.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca578.jpg,esca,Esca,Esca,0.63073957,True,0.0012933722,0.63073957,0.10485805,0.26310906
+esca627.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca627.jpg,esca,Esca,Leaf blight,0.6408293,False,0.048056196,0.30908942,0.002025017,0.6408293
+esca646.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca646.jpg,esca,Esca,Leaf blight,0.81197155,False,0.0034760807,0.1838643,0.0006880405,0.81197155
+esca674.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca674.jpg,esca,Esca,Leaf blight,0.64800584,False,0.07399508,0.27152118,0.006477939,0.64800584
+esca735.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca735.jpg,esca,Esca,Esca,0.94936156,True,0.0025200332,0.94936156,0.004113335,0.04400504
+esca769.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca769.jpg,esca,Esca,Esca,0.5673838,True,0.32121652,0.5673838,0.048348058,0.06305166
+esca793.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca793.jpg,esca,Esca,Esca,0.6020673,True,0.057819296,0.6020673,0.15913193,0.18098147
+esca803.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca803.jpg,esca,Esca,Esca,0.48916817,True,0.19831532,0.48916817,0.10583609,0.20668039
+esca804.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca804.jpg,esca,Esca,Esca,0.85502833,True,0.002247859,0.85502833,0.0065027894,0.13622102
+esca862.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca862.jpg,esca,Esca,Esca,0.6385415,True,0.03689448,0.6385415,0.294112,0.030451993
+esca871.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\esca\esca871.jpg,esca,Esca,Esca,0.6771555,True,0.03905214,0.6771555,0.0009284734,0.28286386
+leaf blight185.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight185.jpg,leaf blight,Leaf blight,Leaf blight,0.73832744,True,0.260738,0.0009100322,2.4475168e-05,0.73832744
+leaf blight413.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight413.jpg,leaf blight,Leaf blight,Esca,0.9325876,False,0.0010221048,0.9325876,0.0076385434,0.058751605
+leaf blight485.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight485.jpg,leaf blight,Leaf blight,Esca,0.56115526,False,0.2994513,0.56115526,0.019544864,0.119848534
+leaf blight589.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\leaf blight\leaf blight589.jpg,leaf blight,Leaf blight,Esca,0.62866896,False,0.0020550224,0.62866896,0.009477132,0.35979885
+healthy024.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy024.jpg,healthy,Healthy,Healthy,0.9856778,True,0.0069514345,0.0051189177,0.9856778,0.0022518246
+healthy1015.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1015.jpg,healthy,Healthy,Healthy,0.98906684,True,0.00071872707,0.009398625,0.98906684,0.00081579335
+healthy1020.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1020.jpg,healthy,Healthy,Healthy,0.9426444,True,0.03188744,0.018095845,0.9426444,0.0073723113
+healthy1045.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1045.jpg,healthy,Healthy,Healthy,0.98437494,True,0.006710373,0.008444906,0.98437494,0.00046968547
+healthy1094.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy1094.jpg,healthy,Healthy,Healthy,0.94784504,True,0.0011199289,0.03839014,0.94784504,0.012644805
+healthy133.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy133.jpg,healthy,Healthy,Healthy,0.6261241,True,0.04278616,0.2978213,0.6261241,0.03326849
+healthy148.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy148.jpg,healthy,Healthy,Healthy,0.9934325,True,0.0016081247,0.0027541593,0.9934325,0.0022052077
+healthy154.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy154.jpg,healthy,Healthy,Healthy,0.9219345,True,0.011732953,0.06046347,0.9219345,0.005869118
+healthy202.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy202.jpg,healthy,Healthy,Healthy,0.99040866,True,0.002233249,0.006002728,0.99040866,0.0013554397
+healthy223.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy223.jpg,healthy,Healthy,Healthy,0.8390204,True,0.06979676,0.05970211,0.8390204,0.03148079
+healthy248.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy248.jpg,healthy,Healthy,Healthy,0.53305227,True,0.06421065,0.2108319,0.53305227,0.19190522
+healthy270.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy270.jpg,healthy,Healthy,Healthy,0.91816634,True,0.0031726165,0.054798223,0.91816634,0.023862783
+healthy345.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy345.jpg,healthy,Healthy,Healthy,0.8530539,True,0.026043683,0.08707745,0.8530539,0.033824988
+healthy371.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy371.jpg,healthy,Healthy,Healthy,0.98172975,True,0.002327794,0.014477193,0.98172975,0.0014651751
+healthy395.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy395.jpg,healthy,Healthy,Healthy,0.9618111,True,0.012111827,0.02366102,0.9618111,0.002416075
+healthy427.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy427.jpg,healthy,Healthy,Healthy,0.9546021,True,0.004817164,0.01984839,0.9546021,0.02073229
+healthy478.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy478.jpg,healthy,Healthy,Healthy,0.95031273,True,0.0032998777,0.035486165,0.95031273,0.010901251
+healthy503.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy503.jpg,healthy,Healthy,Healthy,0.9862716,True,0.0016731035,0.009659381,0.9862716,0.0023958995
+healthy549.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy549.jpg,healthy,Healthy,Healthy,0.9518493,True,0.016163984,0.013265911,0.9518493,0.018720848
+healthy597.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy597.jpg,healthy,Healthy,Healthy,0.7428462,True,0.018836282,0.114820525,0.7428462,0.12349691
+healthy603.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy603.jpg,healthy,Healthy,Healthy,0.7185646,True,0.061112028,0.18734701,0.7185646,0.03297636
+healthy660.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy660.jpg,healthy,Healthy,Healthy,0.97369474,True,0.010985471,0.0112909535,0.97369474,0.004028836
+healthy667.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy667.jpg,healthy,Healthy,Healthy,0.7871675,True,0.027399309,0.13930008,0.7871675,0.046133026
+healthy709.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy709.jpg,healthy,Healthy,Healthy,0.9817271,True,0.0090317335,0.007636993,0.9817271,0.0016041774
+healthy763.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy763.jpg,healthy,Healthy,Healthy,0.8272254,True,0.015662087,0.12749255,0.8272254,0.029619932
+healthy811.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy811.jpg,healthy,Healthy,Healthy,0.7316569,True,0.002623239,0.24005646,0.7316569,0.025663473
+healthy830.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy830.jpg,healthy,Healthy,Esca,0.58353925,False,0.003874313,0.58353925,0.11173201,0.3008544
+healthy932.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy932.jpg,healthy,Healthy,Healthy,0.87950426,True,0.071576074,0.032402955,0.87950426,0.016516635
+healthy972.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy972.jpg,healthy,Healthy,Healthy,0.6438094,True,0.16985285,0.1664277,0.6438094,0.019910043
+healthy975.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy975.jpg,healthy,Healthy,Healthy,0.8620295,True,0.014745933,0.066837296,0.8620295,0.05638727
+healthy978.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy978.jpg,healthy,Healthy,Healthy,0.7741149,True,0.02015696,0.19524646,0.7741149,0.0104816975
+healthy985.jpg,C:\intern project 2\TerraSpectra-\data\processed\GVLiD_224\healthy\healthy985.jpg,healthy,Healthy,Healthy,0.98608726,True,0.0068831444,0.0066965576,0.98608726,0.00033301587

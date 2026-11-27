@@ -276,3 +276,52 @@ A fresh Python virtual environment was created and tested successfully on Window
 The clean-environment evaluation completed successfully.
 
 The test was performed using native Windows CPU TensorFlow. GPU acceleration was unavailable in this environment.
+
+
+
+## DeiT-Tiny Vision Transformer Experiment
+
+- Model: facebook/deit-tiny-patch16-224
+- Architecture: DeiT-Tiny Vision Transformer
+- Pretraining: ImageNet-1k
+- Fine-tuning strategy: Frozen pretrained backbone with a
+  trainable four-class classification head (linear probing).
+- Input image size: 224 x 224 RGB
+- Training device: CPU
+- Test images: 336
+
+### Test Results
+
+- Accuracy: 81.25%
+- Macro Precision: 0.6952
+- Macro Recall: 0.7005
+- Macro F1-score: 0.6970
+- Weighted F1-score: 0.8146
+
+### Per-Class F1 Scores
+
+| Class | F1-score | Support |
+|---|---:|---:|
+| Black rot | 0.55 | 11 |
+| Esca | 0.78 | 126 |
+| Healthy | 0.97 | 150 |
+| Leaf blight | 0.50 | 49 |
+
+### Comparison
+
+The RGB 3D-CNN achieved the highest test accuracy
+(88.10%) and macro F1-score (0.7834), followed by
+MobileNetV2 (83.93% accuracy, 0.7610 macro F1).
+DeiT-Tiny achieved 81.25% accuracy and 0.6970 macro F1.
+
+In this experiment, the DeiT-Tiny model did not outperform
+the CNN-based models.
+
+### Limitations
+
+- The dataset contains RGB grapevine images, not hyperspectral data.
+- The DeiT-Tiny experiment uses ImageNet-pretrained weights.
+- The dataset has class imbalance.
+- Black rot has only 11 test samples.
+- Leaf blight and Black rot need further improvement.
+- Results require validation on larger and more diverse datasets.

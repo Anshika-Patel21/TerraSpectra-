@@ -1,0 +1,23 @@
+{
+    "model": "facebook/deit-tiny-patch16-224",
+    "experiment": "DeiT-Tiny RGB Linear Probing",
+    "device": "cpu",
+    "test_images": 336,
+    "correct_predictions": 273,
+    "incorrect_predictions": 63,
+    "accuracy": 0.8125,
+    "macro_precision": 0.6952173502629893,
+    "macro_recall": 0.7005246340960627,
+    "macro_f1": 0.6969622936319606,
+    "weighted_precision": 0.8183663551627548,
+    "weighted_recall": 0.8125,
+    "weighted_f1": 0.8145699959606348,
+    "class_names": [
+        "Black rot",
+        "Esca",
+        "Healthy",
+        "Leaf blight"
+    ],
+    "input_type": "RGB",
+    "training_strategy": "Frozen pretrained backbone"
+}
